@@ -1,0 +1,1320 @@
+unitCode,unit,activity,knowledge,taxonomy
+CITS1001,Software Engineering with Java,Lectures,Abstraction,X
+CITS1001,Software Engineering with Java,Lectures,Design,X
+CITS1001,Software Engineering with Java,Lectures,Teamwork concepts and issues,X
+CITS1001,Software Engineering with Java,Lectures,Understanding the ICT profession,X
+CITS1001,Software Engineering with Java,Lectures,Hardware & software fundamentals,X
+CITS1001,Software Engineering with Java,Lectures,Data & information management,X
+CITS1001,Software Engineering with Java,Lectures,Programming,X
+CITS1001,Software Engineering with Java,Lectures,Systems development,X
+CITS1001,Software Engineering with Java,Lectures,Systems acquisition,X
+CITS1001,Software Engineering with Java,Mid-semester Test ,Abstraction,2
+CITS1001,Software Engineering with Java,Mid-semester Test ,Design,2
+CITS1001,Software Engineering with Java,Mid-semester Test ,Hardware & software fundamentals,3
+CITS1001,Software Engineering with Java,Mid-semester Test ,Data & information management,3
+CITS1001,Software Engineering with Java,Mid-semester Test ,Programming,2
+CITS1001,Software Engineering with Java,Programming Exercises,Abstraction,3
+CITS1001,Software Engineering with Java,Programming Exercises,Design,3
+CITS1001,Software Engineering with Java,Programming Exercises,Teamwork concepts and issues,2
+CITS1001,Software Engineering with Java,Programming Exercises,Hardware & software fundamentals,3
+CITS1001,Software Engineering with Java,Programming Exercises,Data & information management,3
+CITS1001,Software Engineering with Java,Programming Exercises,Programming,3
+CITS1001,Software Engineering with Java,Programming Exercises,Systems development,3
+CITS1001,Software Engineering with Java,Exam,Abstraction,3
+CITS1001,Software Engineering with Java,Exam,Design,3
+CITS1001,Software Engineering with Java,Exam,Hardware & software fundamentals,3
+CITS1001,Software Engineering with Java,Exam,Data & information management,3
+CITS1001,Software Engineering with Java,Exam,Programming,3
+CITS1001,Software Engineering with Java,Exam,Systems development,3
+CITS1001,Software Engineering with Java,Exam,Systems acquisition,3
+CITS1003,Introduction to Cybersecurity,Lectures,Abstraction,X
+CITS1003,Introduction to Cybersecurity,Lectures,Design,X
+CITS1003,Introduction to Cybersecurity,Lectures,Ethics,X
+CITS1003,Introduction to Cybersecurity,Lectures,Societal issues / legal issues / privacy,X
+CITS1003,Introduction to Cybersecurity,Lectures,Understanding the ICT profession,X
+CITS1003,Introduction to Cybersecurity,Lectures,Human factors,X
+CITS1003,Introduction to Cybersecurity,Lectures,IT governance & organisational issues,X
+CITS1003,Introduction to Cybersecurity,Lectures,Cyber security,X
+CITS1003,Introduction to Cybersecurity,Essay,Abstraction,2
+CITS1003,Introduction to Cybersecurity,Essay,Design,2
+CITS1003,Introduction to Cybersecurity,Essay,Ethics,3
+CITS1003,Introduction to Cybersecurity,Essay,Societal issues / legal issues / privacy,3
+CITS1003,Introduction to Cybersecurity,Essay,IT governance & organisational issues,3
+CITS1003,Introduction to Cybersecurity,Essay,Cyber security,3
+CITS1003,Introduction to Cybersecurity,Labs with Quizzes,Abstraction,2
+CITS1003,Introduction to Cybersecurity,Labs with Quizzes,Design,2
+CITS1003,Introduction to Cybersecurity,Labs with Quizzes,Understanding the ICT profession,3
+CITS1003,Introduction to Cybersecurity,Labs with Quizzes,Human factors,3
+CITS1003,Introduction to Cybersecurity,Labs with Quizzes,Cyber security,3
+CITS1003,Introduction to Cybersecurity,Exam,Abstraction,2
+CITS1003,Introduction to Cybersecurity,Exam,Design,2
+CITS1003,Introduction to Cybersecurity,Exam,Ethics,3
+CITS1003,Introduction to Cybersecurity,Exam,Societal issues / legal issues / privacy,3
+CITS1003,Introduction to Cybersecurity,Exam,Understanding the ICT profession,3
+CITS1003,Introduction to Cybersecurity,Exam,Human factors,3
+CITS1003,Introduction to Cybersecurity,Exam,IT governance & organisational issues,3
+CITS1003,Introduction to Cybersecurity,Exam,Cyber security,3
+CITS1401,Computational Thinking with Python,Lectures,Abstraction,X
+CITS1401,Computational Thinking with Python,Lectures,Design,X
+CITS1401,Computational Thinking with Python,Lectures,Understanding the ICT profession,X
+CITS1401,Computational Thinking with Python,Lectures,Hardware & software fundamentals,X
+CITS1401,Computational Thinking with Python,Lectures,Data & information management,X
+CITS1401,Computational Thinking with Python,Lectures,Programming,X
+CITS1401,Computational Thinking with Python,Mid-semester Test,Abstraction,3
+CITS1401,Computational Thinking with Python,Mid-semester Test,Hardware & software fundamentals,3
+CITS1401,Computational Thinking with Python,Mid-semester Test,Data & information management,3
+CITS1401,Computational Thinking with Python,Mid-semester Test,Programming,3
+CITS1401,Computational Thinking with Python,Labs and Project,Abstraction,3
+CITS1401,Computational Thinking with Python,Labs and Project,Design,3
+CITS1401,Computational Thinking with Python,Labs and Project,Understanding the ICT profession,3
+CITS1401,Computational Thinking with Python,Labs and Project,Hardware & software fundamentals,3
+CITS1401,Computational Thinking with Python,Labs and Project,Data & information management,3
+CITS1401,Computational Thinking with Python,Labs and Project,Programming,4
+CITS1401,Computational Thinking with Python,Exam,Abstraction,3
+CITS1401,Computational Thinking with Python,Exam,Design,3
+CITS1401,Computational Thinking with Python,Exam,Programming,3
+CITS1402,Relational Database Management Systems,Lectures,Abstraction,X
+CITS1402,Relational Database Management Systems,Lectures,Design,X
+CITS1402,Relational Database Management Systems,Lectures,Data & information management,X
+CITS1402,Relational Database Management Systems,Lectures,Programming,X
+CITS1402,Relational Database Management Systems,Mid-semester Test,Abstraction,2
+CITS1402,Relational Database Management Systems,Mid-semester Test,Design,2
+CITS1402,Relational Database Management Systems,Mid-semester Test,Data & information management,3
+CITS1402,Relational Database Management Systems,Labs and Project,Abstraction,3
+CITS1402,Relational Database Management Systems,Labs and Project,Design,3
+CITS1402,Relational Database Management Systems,Labs and Project,Data & information management,3
+CITS1402,Relational Database Management Systems,Labs and Project,Programming,3
+CITS1402,Relational Database Management Systems,Exam,Abstraction,3
+CITS1402,Relational Database Management Systems,Exam,Design,3
+CITS1402,Relational Database Management Systems,Exam,Data & information management,3
+CITS2002,Systems Programming,Lectures,Abstraction,X
+CITS2002,Systems Programming,Lectures,Design,X
+CITS2002,Systems Programming,Lectures,Understanding the ICT profession,X
+CITS2002,Systems Programming,Lectures,Hardware & software fundamentals,X
+CITS2002,Systems Programming,Lectures,Data & information management,X
+CITS2002,Systems Programming,Lectures,Programming,X
+CITS2002,Systems Programming,Lectures,Systems development,X
+CITS2002,Systems Programming,Lectures,Systems acquisition,X
+CITS2002,Systems Programming,Lectures,Cyber security,X
+CITS2002,Systems Programming,Mid-semester Test,Design,2
+CITS2002,Systems Programming,Mid-semester Test,Understanding the ICT profession,2
+CITS2002,Systems Programming,Mid-semester Test,Hardware & software fundamentals,2
+CITS2002,Systems Programming,Mid-semester Test,Data & information management,2
+CITS2002,Systems Programming,Mid-semester Test,Programming,3
+CITS2002,Systems Programming,Programming,Abstraction,3
+CITS2002,Systems Programming,Programming,Design,3
+CITS2002,Systems Programming,Programming,Hardware & software fundamentals,3
+CITS2002,Systems Programming,Programming,Data & information management,3
+CITS2002,Systems Programming,Programming,Programming,3
+CITS2002,Systems Programming,Programming,Systems development,2
+CITS2002,Systems Programming,Programming,Systems acquisition,2
+CITS2002,Systems Programming,Programming,Cyber security,2
+CITS2002,Systems Programming,Exam,Design,3
+CITS2002,Systems Programming,Exam,Understanding the ICT profession,2
+CITS2002,Systems Programming,Exam,Hardware & software fundamentals,3
+CITS2002,Systems Programming,Exam,Data & information management,3
+CITS2002,Systems Programming,Exam,Programming,3
+CITS2002,Systems Programming,Exam,Cyber security,2
+CITS2003,Open Source Tools and Scripting,Lectures,Abstraction,X
+CITS2003,Open Source Tools and Scripting,Lectures,Design,X
+CITS2003,Open Source Tools and Scripting,Lectures,Societal issues / legal issues / privacy,X
+CITS2003,Open Source Tools and Scripting,Lectures,Understanding the ICT profession,X
+CITS2003,Open Source Tools and Scripting,Lectures,Hardware & software fundamentals,X
+CITS2003,Open Source Tools and Scripting,Lectures,Data & information management,X
+CITS2003,Open Source Tools and Scripting,Lectures,Networking,X
+CITS2003,Open Source Tools and Scripting,Lectures,Programming,X
+CITS2003,Open Source Tools and Scripting,Lectures,Systems development,X
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Abstraction,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Design,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Understanding the ICT profession,2
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Hardware & software fundamentals,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Data & information management,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Programming,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 1,Systems development,2
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Abstraction,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Design,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Hardware & software fundamentals,4
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Data & information management,4
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Networking,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Programming,3
+CITS2003,Open Source Tools and Scripting,Programming Assignment 2,Systems development,2
+CITS2003,Open Source Tools and Scripting,Exam,Abstraction,3
+CITS2003,Open Source Tools and Scripting,Exam,Design,3
+CITS2003,Open Source Tools and Scripting,Exam,Hardware & software fundamentals,3
+CITS2003,Open Source Tools and Scripting,Exam,Data & information management,3
+CITS2200,Data Structures and Algorithms,Lectures,Abstraction,X
+CITS2200,Data Structures and Algorithms,Lectures,Design,X
+CITS2200,Data Structures and Algorithms,Lectures,Hardware & software fundamentals,X
+CITS2200,Data Structures and Algorithms,Lectures,Data & information management,X
+CITS2200,Data Structures and Algorithms,Lectures,Programming,X
+CITS2200,Data Structures and Algorithms,Mid-semester Test,Abstraction,4
+CITS2200,Data Structures and Algorithms,Mid-semester Test,Design,3
+CITS2200,Data Structures and Algorithms,Mid-semester Test,Data & information management,3
+CITS2200,Data Structures and Algorithms,Labs and Project,Abstraction,4
+CITS2200,Data Structures and Algorithms,Labs and Project,Design,4
+CITS2200,Data Structures and Algorithms,Labs and Project,Data & information management,4
+CITS2200,Data Structures and Algorithms,Labs and Project,Programming,4
+CITS2200,Data Structures and Algorithms,Exam,Abstraction,3
+CITS2200,Data Structures and Algorithms,Exam,Design,3
+CITS2200,Data Structures and Algorithms,Exam,Data & information management,3
+CITS2211,Discrete Structures,Lectures,Abstraction,X
+CITS2211,Discrete Structures,Lectures,Hardware & software fundamentals,X
+CITS2211,Discrete Structures,Lectures,Data & information management,X
+CITS2211,Discrete Structures,Lectures,Programming,X
+CITS2211,Discrete Structures,Assignments,Abstraction,3
+CITS2211,Discrete Structures,Assignments,Hardware & software fundamentals,3
+CITS2211,Discrete Structures,Assignments,Data & information management,3
+CITS2211,Discrete Structures,Assignments,Programming,3
+CITS2211,Discrete Structures,Exam,Abstraction,3
+CITS2211,Discrete Structures,Exam,Hardware & software fundamentals,3
+CITS2211,Discrete Structures,Exam,Data & information management,3
+CITS2402,Introduction to Data Science,Lectures,Abstraction,X
+CITS2402,Introduction to Data Science,Lectures,Design,X
+CITS2402,Introduction to Data Science,Lectures,Ethics,X
+CITS2402,Introduction to Data Science,Lectures,Professional expectations,X
+CITS2402,Introduction to Data Science,Lectures,Societal issues / legal issues / privacy,X
+CITS2402,Introduction to Data Science,Lectures,Understanding the ICT profession,X
+CITS2402,Introduction to Data Science,Lectures,Hardware & software fundamentals,X
+CITS2402,Introduction to Data Science,Lectures,Data & information management,X
+CITS2402,Introduction to Data Science,Lectures,Programming,X
+CITS2402,Introduction to Data Science,Lectures,Human factors,X
+CITS2402,Introduction to Data Science,Lectures,Systems development,X
+CITS2402,Introduction to Data Science,Lectures,IT governance & organisational issues,X
+CITS2402,Introduction to Data Science,Lectures,Cyber security,X
+CITS2402,Introduction to Data Science,Case Studies,Abstraction,4
+CITS2402,Introduction to Data Science,Case Studies,Design,3
+CITS2402,Introduction to Data Science,Case Studies,Ethics,2
+CITS2402,Introduction to Data Science,Case Studies,Professional expectations,2
+CITS2402,Introduction to Data Science,Case Studies,Societal issues / legal issues / privacy,4
+CITS2402,Introduction to Data Science,Case Studies,Understanding the ICT profession,3
+CITS2402,Introduction to Data Science,Case Studies,Hardware & software fundamentals,2
+CITS2402,Introduction to Data Science,Case Studies,Data & information management,4
+CITS2402,Introduction to Data Science,Case Studies,Programming,3
+CITS2402,Introduction to Data Science,Case Studies,Human factors,2
+CITS2402,Introduction to Data Science,Case Studies,Systems development,1
+CITS2402,Introduction to Data Science,Case Studies,IT governance & organisational issues,1
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Abstraction,3
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Design,3
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Understanding the ICT profession,3
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Hardware & software fundamentals,2
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Data & information management,4
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Programming,3
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Human factors,2
+CITS2402,Introduction to Data Science,Practical work (incl. weekly labs & assignment),Systems development,1
+CITS2402,Introduction to Data Science,Research Project,Abstraction,2
+CITS2402,Introduction to Data Science,Research Project,Ethics,3
+CITS2402,Introduction to Data Science,Research Project,Professional expectations,3
+CITS2402,Introduction to Data Science,Research Project,Teamwork concepts and issues,1
+CITS2402,Introduction to Data Science,Research Project,Interpersonal communications,3
+CITS2402,Introduction to Data Science,Research Project,Societal issues / legal issues / privacy,4
+CITS2402,Introduction to Data Science,Research Project,Understanding the ICT profession,3
+CITS2402,Introduction to Data Science,Research Project,Data & information management,2
+CITS2402,Introduction to Data Science,Research Project,Human factors,2
+CITS2402,Introduction to Data Science,Research Project,IT governance & organisational issues,1
+CITS2402,Introduction to Data Science,Research Project,Cyber security,1
+CITS2402,Introduction to Data Science,Exam,Abstraction,2
+CITS2402,Introduction to Data Science,Exam,Design,2
+CITS2402,Introduction to Data Science,Exam,Interpersonal communications,1
+CITS2402,Introduction to Data Science,Exam,Societal issues / legal issues / privacy,2
+CITS2402,Introduction to Data Science,Exam,Understanding the ICT profession,1
+CITS2402,Introduction to Data Science,Exam,Hardware & software fundamentals,2
+CITS2402,Introduction to Data Science,Exam,Data & information management,3
+CITS2402,Introduction to Data Science,Exam,Programming,3
+CITS3001,Algorithms,Lectures,Abstraction,X
+CITS3001,Algorithms,Lectures,Design,X
+CITS3001,Algorithms,Lectures,Understanding the ICT profession,X
+CITS3001,Algorithms,Lectures,Data & information management,X
+CITS3001,Algorithms,Lectures,Programming,X
+CITS3001,Algorithms,Lectures,Systems development,X
+CITS3001,Algorithms,Mid-semester Test,Abstraction,3
+CITS3001,Algorithms,Mid-semester Test,Design,3
+CITS3001,Algorithms,Mid-semester Test,Programming,2
+CITS3001,Algorithms,Group Project,Abstraction,4
+CITS3001,Algorithms,Group Project,Design,4
+CITS3001,Algorithms,Group Project,Teamwork concepts and issues,3
+CITS3001,Algorithms,Group Project,Hardware & software fundamentals,4
+CITS3001,Algorithms,Group Project,Data & information management,4
+CITS3001,Algorithms,Group Project,Systems development,4
+CITS3001,Algorithms,Exam,Abstraction,4
+CITS3001,Algorithms,Exam,Design,4
+CITS3001,Algorithms,Exam,Hardware & software fundamentals,4
+CITS3001,Algorithms,Exam,Data & information management,4
+CITS3002,Computer Networks,Lectures,Abstraction,X
+CITS3002,Computer Networks,Lectures,Design,X
+CITS3002,Computer Networks,Lectures,Societal issues / legal issues / privacy,X
+CITS3002,Computer Networks,Lectures,Understanding the ICT profession,X
+CITS3002,Computer Networks,Lectures,Hardware & software fundamentals,X
+CITS3002,Computer Networks,Lectures,Data & information management,X
+CITS3002,Computer Networks,Lectures,Networking,X
+CITS3002,Computer Networks,Lectures,Programming,X
+CITS3002,Computer Networks,Lectures,Systems development,X
+CITS3002,Computer Networks,Lectures,Cyber security,X
+CITS3002,Computer Networks,Mid-semester Test,Abstraction,2
+CITS3002,Computer Networks,Mid-semester Test,Design,2
+CITS3002,Computer Networks,Mid-semester Test,Hardware & software fundamentals,3
+CITS3002,Computer Networks,Mid-semester Test,Data & information management,3
+CITS3002,Computer Networks,Mid-semester Test,Networking,4
+CITS3002,Computer Networks,Mid-semester Test,Programming,3
+CITS3002,Computer Networks,Practical Project,Design,3
+CITS3002,Computer Networks,Practical Project,Hardware & software fundamentals,4
+CITS3002,Computer Networks,Practical Project,Data & information management,4
+CITS3002,Computer Networks,Practical Project,Programming,4
+CITS3002,Computer Networks,Practical Project,Systems development,3
+CITS3002,Computer Networks,Practical Project,Cyber security,3
+CITS3002,Computer Networks,Exam,Design,4
+CITS3002,Computer Networks,Exam,Hardware & software fundamentals,4
+CITS3002,Computer Networks,Exam,Data & information management,4
+CITS3002,Computer Networks,Exam,Programming,3
+CITS3002,Computer Networks,Exam,Cyber security,3
+CITS3003,Graphics and Animation,Lectures,Abstraction,X
+CITS3003,Graphics and Animation,Lectures,Design,X
+CITS3003,Graphics and Animation,Lectures,Hardware & software fundamentals,X
+CITS3003,Graphics and Animation,Lectures,Programming,X
+CITS3003,Graphics and Animation,Mid-semester Test,Abstraction,4
+CITS3003,Graphics and Animation,Mid-semester Test,Design,4
+CITS3003,Graphics and Animation,Mid-semester Test,Hardware & software fundamentals,4
+CITS3003,Graphics and Animation,Programming Project,Abstraction,3
+CITS3003,Graphics and Animation,Programming Project,Design,3
+CITS3003,Graphics and Animation,Programming Project,Hardware & software fundamentals,4
+CITS3003,Graphics and Animation,Programming Project,Programming,4
+CITS3003,Graphics and Animation,Exam,Abstraction,4
+CITS3003,Graphics and Animation,Exam,Design,4
+CITS3003,Graphics and Animation,Exam,Hardware & software fundamentals,4
+CITS3004,Cybersecurity,Lectures,Abstraction,X
+CITS3004,Cybersecurity,Lectures,Design,X
+CITS3004,Cybersecurity,Lectures,Ethics,X
+CITS3004,Cybersecurity,Lectures,Societal issues / legal issues / privacy,X
+CITS3004,Cybersecurity,Lectures,Hardware & software fundamentals,X
+CITS3004,Cybersecurity,Lectures,Data & information management,X
+CITS3004,Cybersecurity,Lectures,Networking,X
+CITS3004,Cybersecurity,Lectures,Programming,X
+CITS3004,Cybersecurity,Lectures,Human factors,X
+CITS3004,Cybersecurity,Lectures,Cyber security,X
+CITS3004,Cybersecurity,Mid-semester Test,Abstraction,4
+CITS3004,Cybersecurity,Mid-semester Test,Design,4
+CITS3004,Cybersecurity,Mid-semester Test,Data & information management,4
+CITS3004,Cybersecurity,Mid-semester Test,Networking,2
+CITS3004,Cybersecurity,Mid-semester Test,Programming,3
+CITS3004,Cybersecurity,Assignments,Abstraction,3
+CITS3004,Cybersecurity,Assignments,Design,3
+CITS3004,Cybersecurity,Assignments,Hardware & software fundamentals,3
+CITS3004,Cybersecurity,Assignments,Data & information management,3
+CITS3004,Cybersecurity,Assignments,Networking,3
+CITS3004,Cybersecurity,Exam,Abstraction,4
+CITS3004,Cybersecurity,Exam,Design,4
+CITS3004,Cybersecurity,Exam,Data & information management,4
+CITS3004,Cybersecurity,Exam,Networking,2
+CITS3004,Cybersecurity,Exam,Programming,3
+CITS3005,Knowledge Representation,Lectures,Abstraction,X
+CITS3005,Knowledge Representation,Lectures,Design,X
+CITS3005,Knowledge Representation,Lectures,Data & information management,X
+CITS3005,Knowledge Representation,Lectures,Programming,X
+CITS3005,Knowledge Representation,Lectures,Systems development,X
+CITS3005,Knowledge Representation,Workshops,Abstraction,4
+CITS3005,Knowledge Representation,Workshops,Design,3
+CITS3005,Knowledge Representation,Workshops,Data & information management,4
+CITS3005,Knowledge Representation,Workshops,Programming,3
+CITS3005,Knowledge Representation,Workshops,Systems development,3
+CITS3005,Knowledge Representation,Planning Project,Abstraction,3
+CITS3005,Knowledge Representation,Planning Project,Design,4
+CITS3005,Knowledge Representation,Planning Project,Programming,3
+CITS3005,Knowledge Representation,Planning Project,Systems development,4
+CITS3005,Knowledge Representation,Exam,Abstraction,4
+CITS3005,Knowledge Representation,Exam,Design,3
+CITS3005,Knowledge Representation,Exam,Data & information management,4
+CITS3005,Knowledge Representation,Exam,Programming,3
+CITS3005,Knowledge Representation,Exam,Systems development,3
+CITS3006,Penetration Testing,Lectures,Abstraction,X
+CITS3006,Penetration Testing,Lectures,Design,X
+CITS3006,Penetration Testing,Lectures,Ethics,X
+CITS3006,Penetration Testing,Lectures,Societal issues / legal issues / privacy,X
+CITS3006,Penetration Testing,Lectures,Hardware & software fundamentals,X
+CITS3006,Penetration Testing,Lectures,Data & information management,X
+CITS3006,Penetration Testing,Lectures,Networking,X
+CITS3006,Penetration Testing,Lectures,Programming,X
+CITS3006,Penetration Testing,Lectures,Cyber security,X
+CITS3006,Penetration Testing,Mid-semester Test,Abstraction,4
+CITS3006,Penetration Testing,Mid-semester Test,Design,4
+CITS3006,Penetration Testing,Mid-semester Test,Data & information management,4
+CITS3006,Penetration Testing,Mid-semester Test,Networking,2
+CITS3006,Penetration Testing,Mid-semester Test,Programming,3
+CITS3006,Penetration Testing,Assignments,Abstraction,4
+CITS3006,Penetration Testing,Assignments,Design,4
+CITS3006,Penetration Testing,Assignments,Hardware & software fundamentals,3
+CITS3006,Penetration Testing,Assignments,Data & information management,3
+CITS3006,Penetration Testing,Assignments,Networking,3
+CITS3006,Penetration Testing,Exam,Abstraction,4
+CITS3006,Penetration Testing,Exam,Design,4
+CITS3006,Penetration Testing,Exam,Data & information management,4
+CITS3006,Penetration Testing,Exam,Networking,2
+CITS3006,Penetration Testing,Exam,Programming,3
+CITS3007,Secure Coding,Lectures,Abstraction,X
+CITS3007,Secure Coding,Lectures,Design,X
+CITS3007,Secure Coding,Lectures,Ethics,X
+CITS3007,Secure Coding,Lectures,Societal issues / legal issues / privacy,X
+CITS3007,Secure Coding,Lectures,Hardware & software fundamentals,X
+CITS3007,Secure Coding,Lectures,Data & information management,X
+CITS3007,Secure Coding,Lectures,Networking,X
+CITS3007,Secure Coding,Lectures,Programming,X
+CITS3007,Secure Coding,Lectures,Cyber security,X
+CITS3007,Secure Coding,Mid-semester Test,Abstraction,4
+CITS3007,Secure Coding,Mid-semester Test,Design,4
+CITS3007,Secure Coding,Mid-semester Test,Data & information management,4
+CITS3007,Secure Coding,Mid-semester Test,Networking,2
+CITS3007,Secure Coding,Mid-semester Test,Programming,3
+CITS3007,Secure Coding,Programming Project,Abstraction,4
+CITS3007,Secure Coding,Programming Project,Design,4
+CITS3007,Secure Coding,Programming Project,Societal issues / legal issues / privacy,3
+CITS3007,Secure Coding,Programming Project,Hardware & software fundamentals,3
+CITS3007,Secure Coding,Programming Project,Data & information management,3
+CITS3007,Secure Coding,Programming Project,Networking,3
+CITS3007,Secure Coding,Exam,Abstraction,4
+CITS3007,Secure Coding,Exam,Design,4
+CITS3007,Secure Coding,Exam,Data & information management,4
+CITS3007,Secure Coding,Exam,Networking,2
+CITS3007,Secure Coding,Exam,Programming,3
+CITS3200,Professional Computing,Lectures,Abstraction,X
+CITS3200,Professional Computing,Lectures,Design,X
+CITS3200,Professional Computing,Lectures,Ethics,X
+CITS3200,Professional Computing,Lectures,Professional expectations,X
+CITS3200,Professional Computing,Lectures,Teamwork concepts and issues,X
+CITS3200,Professional Computing,Lectures,Interpersonal communications,X
+CITS3200,Professional Computing,Lectures,Understanding the ICT profession,X
+CITS3200,Professional Computing,Lectures,Systems development,X
+CITS3200,Professional Computing,Lectures,Systems acquisition,X
+CITS3200,Professional Computing,Lectures,IT governance & organisational issues,X
+CITS3200,Professional Computing,Lectures,IT project management,X
+CITS3200,Professional Computing,Lectures,Service management,X
+CITS3200,Professional Computing,Project ,Abstraction,4
+CITS3200,Professional Computing,Project ,Design,4
+CITS3200,Professional Computing,Project ,Ethics,4
+CITS3200,Professional Computing,Project ,Professional expectations,4
+CITS3200,Professional Computing,Project ,Teamwork concepts and issues,4
+CITS3200,Professional Computing,Project ,Interpersonal communications,4
+CITS3200,Professional Computing,Project ,Understanding the ICT profession,4
+CITS3200,Professional Computing,Project ,Systems development,4
+CITS3200,Professional Computing,Project ,Systems acquisition,4
+CITS3200,Professional Computing,Project ,IT governance & organisational issues,3
+CITS3200,Professional Computing,Project ,IT project management,3
+CITS3200,Professional Computing,Project ,Service management,2
+CITS3200,Professional Computing,Prof. Development Portfolio,Professional expectations,4
+CITS3200,Professional Computing,Prof. Development Portfolio,Teamwork concepts and issues,4
+CITS3200,Professional Computing,Prof. Development Portfolio,Interpersonal communications,4
+CITS3200,Professional Computing,Prof. Development Portfolio,Understanding the ICT profession,4
+CITS3200,Professional Computing,Prof. Development Portfolio,IT governance & organisational issues,3
+CITS3401,Data Warehousing,Lectures,Abstraction,X
+CITS3401,Data Warehousing,Lectures,Design,X
+CITS3401,Data Warehousing,Lectures,Hardware & software fundamentals,X
+CITS3401,Data Warehousing,Lectures,Data & information management,X
+CITS3401,Data Warehousing,Lectures,Networking,X
+CITS3401,Data Warehousing,Lectures,Programming,X
+CITS3401,Data Warehousing,Lectures,Systems development,X
+CITS3401,Data Warehousing,Lectures,Systems acquisition,X
+CITS3401,Data Warehousing,Mid-semester Test,Abstraction,3
+CITS3401,Data Warehousing,Mid-semester Test,Design,3
+CITS3401,Data Warehousing,Mid-semester Test,Data & information management,4
+CITS3401,Data Warehousing,Project Assignment and Labs,Abstraction,4
+CITS3401,Data Warehousing,Project Assignment and Labs,Design,4
+CITS3401,Data Warehousing,Project Assignment and Labs,Hardware & software fundamentals,4
+CITS3401,Data Warehousing,Project Assignment and Labs,Programming,4
+CITS3401,Data Warehousing,Project Assignment and Labs,Systems development,3
+CITS3401,Data Warehousing,Project Assignment and Labs,Systems acquisition,3
+CITS3401,Data Warehousing,Exam,Abstraction,4
+CITS3401,Data Warehousing,Exam,Design,4
+CITS3401,Data Warehousing,Exam,Hardware & software fundamentals,4
+CITS3401,Data Warehousing,Exam,Data & information management,4
+CITS3402,High Performance Computing,Lectures,Abstraction,X
+CITS3402,High Performance Computing,Lectures,Design,X
+CITS3402,High Performance Computing,Lectures,Understanding the ICT profession,X
+CITS3402,High Performance Computing,Lectures,Hardware & software fundamentals,X
+CITS3402,High Performance Computing,Lectures,Data & information management,X
+CITS3402,High Performance Computing,Lectures,Networking,X
+CITS3402,High Performance Computing,Lectures,Programming,X
+CITS3402,High Performance Computing,Lab & Project Assessments,Abstraction,3
+CITS3402,High Performance Computing,Lab & Project Assessments,Design,4
+CITS3402,High Performance Computing,Lab & Project Assessments,Hardware & software fundamentals,3
+CITS3402,High Performance Computing,Lab & Project Assessments,Data & information management,3
+CITS3402,High Performance Computing,Lab & Project Assessments,Networking,4
+CITS3402,High Performance Computing,Lab & Project Assessments,Programming,3
+CITS3402,High Performance Computing,Exam,Abstraction,4
+CITS3402,High Performance Computing,Exam,Design,3
+CITS3402,High Performance Computing,Exam,Hardware & software fundamentals,2
+CITS3402,High Performance Computing,Exam,Data & information management,3
+CITS3402,High Performance Computing,Exam,Networking,3
+CITS3403,Agile Web Development,Lectures,Abstraction,X
+CITS3403,Agile Web Development,Lectures,Design,X
+CITS3403,Agile Web Development,Lectures,Understanding the ICT profession,X
+CITS3403,Agile Web Development,Lectures,Hardware & software fundamentals,X
+CITS3403,Agile Web Development,Lectures,Data & information management,X
+CITS3403,Agile Web Development,Lectures,Networking,X
+CITS3403,Agile Web Development,Lectures,Programming,X
+CITS3403,Agile Web Development,Lectures,Human factors,X
+CITS3403,Agile Web Development,Lectures,Systems development,X
+CITS3403,Agile Web Development,Lectures,Systems acquisition,X
+CITS3403,Agile Web Development,Lectures,IT project management,X
+CITS3403,Agile Web Development,Lectures,Cyber security,X
+CITS3403,Agile Web Development,Mid-semester Test,Abstraction,3
+CITS3403,Agile Web Development,Mid-semester Test,Design,3
+CITS3403,Agile Web Development,Mid-semester Test,Hardware & software fundamentals,2
+CITS3403,Agile Web Development,Mid-semester Test,Data & information management,3
+CITS3403,Agile Web Development,Mid-semester Test,Networking,3
+CITS3403,Agile Web Development,Web Application Project,Abstraction,3
+CITS3403,Agile Web Development,Web Application Project,Design,4
+CITS3403,Agile Web Development,Web Application Project,Understanding the ICT profession,2
+CITS3403,Agile Web Development,Web Application Project,Hardware & software fundamentals,3
+CITS3403,Agile Web Development,Web Application Project,Data & information management,4
+CITS3403,Agile Web Development,Web Application Project,Networking,4
+CITS3403,Agile Web Development,Web Application Project,Programming,4
+CITS3403,Agile Web Development,Web Application Project,Human factors,3
+CITS3403,Agile Web Development,Web Application Project,Systems development,4
+CITS3403,Agile Web Development,Web Application Project,Systems acquisition,2
+CITS3403,Agile Web Development,Web Application Project,IT project management,2
+CITS3403,Agile Web Development,Web Application Project,Cyber security,3
+CITS3403,Agile Web Development,Exam,Abstraction,3
+CITS3403,Agile Web Development,Exam,Design,3
+CITS3403,Agile Web Development,Exam,Hardware & software fundamentals,3
+CITS3403,Agile Web Development,Exam,Data & information management,3
+CITS3403,Agile Web Development,Exam,Networking,4
+CITS3403,Agile Web Development,Exam,Human factors,3
+CITS3403,Agile Web Development,Exam,Systems development,4
+CITS3403,Agile Web Development,Exam,Cyber security,2
+CITS4001/4002,CSSE Research Project,Literature Review,Abstraction,4
+CITS4001/4002,CSSE Research Project,Literature Review,Design,4
+CITS4001/4002,CSSE Research Project,Seminar ,Abstraction,4
+CITS4001/4002,CSSE Research Project,Seminar ,Design,4
+CITS4009,Computational Data Analysis,Lectures,Abstraction,X
+CITS4009,Computational Data Analysis,Lectures,Design,X
+CITS4009,Computational Data Analysis,Lectures,Data & information management,X
+CITS4009,Computational Data Analysis,Lectures,Programming,X
+CITS4009,Computational Data Analysis,Lectures,Systems development,X
+CITS4009,Computational Data Analysis,Mid-semester Test,Abstraction,4
+CITS4009,Computational Data Analysis,Mid-semester Test,Design,3
+CITS4009,Computational Data Analysis,Mid-semester Test,Data & information management,3
+CITS4009,Computational Data Analysis,Mid-semester Test,Programming,3
+CITS4009,Computational Data Analysis,Mid-semester Test,Systems development,4
+CITS4009,Computational Data Analysis,Projects,Abstraction,4
+CITS4009,Computational Data Analysis,Projects,Data & information management,4
+CITS4009,Computational Data Analysis,Projects,Programming,4
+CITS4009,Computational Data Analysis,Projects,Systems development,4
+CITS4009,Computational Data Analysis,Exam,Abstraction,3
+CITS4009,Computational Data Analysis,Exam,Design,3
+CITS4009,Computational Data Analysis,Exam,Data & information management,3
+CITS4009,Computational Data Analysis,Exam,Programming,3
+CITS4009,Computational Data Analysis,Exam,Systems development,3
+CITS4010/4011,Computer Science Honours Research Project,Literature Review,Abstraction,4
+CITS4010/4011,Computer Science Honours Research Project,Literature Review,Design,4
+CITS4010/4011,Computer Science Honours Research Project,Seminar ,Abstraction,4
+CITS4010/4011,Computer Science Honours Research Project,Seminar ,Design,4
+CITS4012,Natural Language Processing,Lectures,Abstraction,X
+CITS4012,Natural Language Processing,Lectures,Design,X
+CITS4012,Natural Language Processing,Lectures,Societal issues / legal issues / privacy,X
+CITS4012,Natural Language Processing,Lectures,Data & information management,X
+CITS4012,Natural Language Processing,Lectures,Programming,X
+CITS4012,Natural Language Processing,Lectures,Systems development,X
+CITS4012,Natural Language Processing,Programming Assignment,Societal issues / legal issues / privacy,3
+CITS4012,Natural Language Processing,Exam,Abstraction,4
+CITS4012,Natural Language Processing,Exam,Design,3
+CITS4012,Natural Language Processing,Exam,Societal issues / legal issues / privacy,3
+CITS4012,Natural Language Processing,Exam,Data & information management,4
+CITS4012,Natural Language Processing,Exam,Programming,4
+CITS4012,Natural Language Processing,Exam,Systems development,3
+CITS4401,Software Requirements and Design,Lectures,Abstraction,X
+CITS4401,Software Requirements and Design,Lectures,Design,X
+CITS4401,Software Requirements and Design,Lectures,Ethics,X
+CITS4401,Software Requirements and Design,Lectures,Professional expectations,X
+CITS4401,Software Requirements and Design,Lectures,Teamwork concepts and issues,X
+CITS4401,Software Requirements and Design,Lectures,Interpersonal communications,X
+CITS4401,Software Requirements and Design,Lectures,Human factors,X
+CITS4401,Software Requirements and Design,Lectures,Systems development,X
+CITS4401,Software Requirements and Design,Lectures,Systems acquisition,X
+CITS4401,Software Requirements and Design,Lectures,IT project management,X
+CITS4401,Software Requirements and Design,Lectures,Cyber security,X
+CITS4401,Software Requirements and Design,Workshop Exercises,Abstraction,4
+CITS4401,Software Requirements and Design,Workshop Exercises,Design,4
+CITS4401,Software Requirements and Design,Workshop Exercises,Ethics,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Teamwork concepts and issues,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Interpersonal communications,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Understanding the ICT profession,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Systems development,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Systems acquisition,3
+CITS4401,Software Requirements and Design,Workshop Exercises,Cyber security,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Abstraction,4
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Design,4
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Professional expectations,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Teamwork concepts and issues,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Interpersonal communications,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Human factors,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Systems development,4
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Systems acquisition,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,IT project management,3
+CITS4401,Software Requirements and Design,Requirements and Design Assignment,Cyber security,4
+CITS4401,Software Requirements and Design,Exam,Abstraction,4
+CITS4401,Software Requirements and Design,Exam,Design,4
+CITS4401,Software Requirements and Design,Exam,Human factors,3
+CITS4401,Software Requirements and Design,Exam,Systems development,3
+CITS4401,Software Requirements and Design,Exam,Systems acquisition,3
+CITS4402,Computer Vision,Lectures,Abstraction,X
+CITS4402,Computer Vision,Lectures,Design,X
+CITS4402,Computer Vision,Lectures,Ethics,X
+CITS4402,Computer Vision,Lectures,Interpersonal communications,X
+CITS4402,Computer Vision,Lectures,Understanding the ICT profession,X
+CITS4402,Computer Vision,Lectures,Data & information management,X
+CITS4402,Computer Vision,Lectures,Programming,X
+CITS4402,Computer Vision,Lectures,Human factors,X
+CITS4402,Computer Vision,Lab Solutions,Interpersonal communications,3
+CITS4402,Computer Vision,Lab Solutions,Programming,3
+CITS4402,Computer Vision,Lab Solutions,Human factors,3
+CITS4402,Computer Vision,Research Project,Abstraction,4
+CITS4402,Computer Vision,Research Project,Design,4
+CITS4402,Computer Vision,Research Project,Data & information management,4
+CITS4402,Computer Vision,Research Project,Programming,4
+CITS4402,Computer Vision,Exam,Abstraction,3
+CITS4402,Computer Vision,Exam,Design,3
+CITS4402,Computer Vision,Exam,Data & information management,4
+CITS4403,Computational Modelling,Lectures,Abstraction,X
+CITS4403,Computational Modelling,Lectures,Design,X
+CITS4403,Computational Modelling,Lectures,Data & information management,X
+CITS4403,Computational Modelling,Lectures,Programming,X
+CITS4403,Computational Modelling,Mid-semester Test,Abstraction,4
+CITS4403,Computational Modelling,Mid-semester Test,Design,4
+CITS4403,Computational Modelling,Project,Abstraction,4
+CITS4403,Computational Modelling,Notebook,Abstraction,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Lectures,Abstraction,X
+CITS4404,Artificial Intelligence and Adaptive Systems,Lectures,Design,X
+CITS4404,Artificial Intelligence and Adaptive Systems,Lectures,Data & information management,X
+CITS4404,Artificial Intelligence and Adaptive Systems,Lectures,Programming,X
+CITS4404,Artificial Intelligence and Adaptive Systems,Seminars,Abstraction,3
+CITS4404,Artificial Intelligence and Adaptive Systems,Seminars,Design,3
+CITS4404,Artificial Intelligence and Adaptive Systems,Seminars,Data & information management,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Seminars,Programming,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Project,Abstraction,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Project,Data & information management,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Project,Programming,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Exam,Abstraction,4
+CITS4404,Artificial Intelligence and Adaptive Systems,Exam,Design,4
+CITS4407,Open Source Tools and Scripting,Lectures,Abstraction,X
+CITS4407,Open Source Tools and Scripting,Lectures,Design,X
+CITS4407,Open Source Tools and Scripting,Lectures,Societal issues / legal issues / privacy,X
+CITS4407,Open Source Tools and Scripting,Lectures,Understanding the ICT profession,X
+CITS4407,Open Source Tools and Scripting,Lectures,Hardware & software fundamentals,X
+CITS4407,Open Source Tools and Scripting,Lectures,Data & information management,X
+CITS4407,Open Source Tools and Scripting,Lectures,Networking,X
+CITS4407,Open Source Tools and Scripting,Lectures,Programming,X
+CITS4407,Open Source Tools and Scripting,Lectures,Systems development,X
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Abstraction,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Design,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Understanding the ICT profession,2
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Hardware & software fundamentals,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Data & information management,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Programming,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 1,Systems development,2
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Abstraction,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Design,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Hardware & software fundamentals,4
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Data & information management,4
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Networking,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Programming,3
+CITS4407,Open Source Tools and Scripting,Programming Assignment 2,Systems development,2
+CITS4407,Open Source Tools and Scripting,Exam,Abstraction,3
+CITS4407,Open Source Tools and Scripting,Exam,Design,3
+CITS4407,Open Source Tools and Scripting,Exam,Hardware & software fundamentals,3
+CITS4407,Open Source Tools and Scripting,Exam,Data & information management,3
+CITS4419,Mobile and Wireless Computing,Lectures,Abstraction,X
+CITS4419,Mobile and Wireless Computing,Lectures,Design,X
+CITS4419,Mobile and Wireless Computing,Lectures,Professional expectations,X
+CITS4419,Mobile and Wireless Computing,Lectures,Teamwork concepts and issues,X
+CITS4419,Mobile and Wireless Computing,Lectures,Interpersonal communications,X
+CITS4419,Mobile and Wireless Computing,Lectures,Societal issues / legal issues / privacy,X
+CITS4419,Mobile and Wireless Computing,Lectures,Hardware & software fundamentals,X
+CITS4419,Mobile and Wireless Computing,Lectures,Data & information management,X
+CITS4419,Mobile and Wireless Computing,Lectures,Networking,X
+CITS4419,Mobile and Wireless Computing,Lectures,Systems development,X
+CITS4419,Mobile and Wireless Computing,Lectures,Cyber security,X
+CITS4419,Mobile and Wireless Computing,Group Project,Design,4
+CITS4419,Mobile and Wireless Computing,Group Project,Hardware & software fundamentals,4
+CITS4419,Mobile and Wireless Computing,Group Project,Data & information management,4
+CITS4419,Mobile and Wireless Computing,Group Project,Networking,4
+CITS4419,Mobile and Wireless Computing,Essay,Abstraction,4
+CITS4419,Mobile and Wireless Computing,Essay,Professional expectations,3
+CITS4419,Mobile and Wireless Computing,Essay,Teamwork concepts and issues,4
+CITS4419,Mobile and Wireless Computing,Essay,Interpersonal communications,3
+CITS4419,Mobile and Wireless Computing,Essay,Networking,4
+CITS4419,Mobile and Wireless Computing,Essay,Systems development,3
+CITS4419,Mobile and Wireless Computing,Essay,Cyber security,4
+CITS4419,Mobile and Wireless Computing,Exam,Abstraction,4
+CITS4419,Mobile and Wireless Computing,Exam,Societal issues / legal issues / privacy,3
+CITS4419,Mobile and Wireless Computing,Exam,Networking,3
+CITS4419,Mobile and Wireless Computing,Exam,Cyber security,4
+CITS5014/5015,Data Science Research Project ,Lectures,Abstraction,X
+CITS5014/5015,Data Science Research Project ,Lectures,Design,X
+CITS5014/5015,Data Science Research Project ,Lectures,Ethics,X
+CITS5014/5015,Data Science Research Project ,Lectures,Professional expectations,X
+CITS5014/5015,Data Science Research Project ,Lectures,Teamwork concepts and issues,X
+CITS5014/5015,Data Science Research Project ,Lectures,Interpersonal communications,X
+CITS5014/5015,Data Science Research Project ,Lectures,Societal issues / legal issues / privacy,X
+CITS5014/5015,Data Science Research Project ,Lectures,Understanding the ICT profession,X
+CITS5014/5015,Data Science Research Project ,Lectures,Hardware & software fundamentals,X
+CITS5014/5015,Data Science Research Project ,Lectures,Data & information management,X
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Ethics,3
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Professional expectations,3
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Societal issues / legal issues / privacy,3
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Understanding the ICT profession,4
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Hardware & software fundamentals,3
+CITS5014/5015,Data Science Research Project ,Project Proposal & Literature Review,Data & information management,4
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Ethics,4
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Professional expectations,4
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Societal issues / legal issues / privacy,3
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Understanding the ICT profession,4
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Hardware & software fundamentals,3
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Data & information management,4
+CITS5014/5015,Data Science Research Project ,Seminar Presentation,Programming,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Ethics,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Professional expectations,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Societal issues / legal issues / privacy,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Understanding the ICT profession,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Hardware & software fundamentals,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Data & information management,4
+CITS5014/5015,Data Science Research Project ,Research Project Report,Programming,4
+CITS5016,CISSP Certification,Lectures,Abstraction,X
+CITS5016,CISSP Certification,Lectures,Design,X
+CITS5016,CISSP Certification,Lectures,Ethics,X
+CITS5016,CISSP Certification,Lectures,Professional expectations,X
+CITS5016,CISSP Certification,Lectures,Societal issues / legal issues / privacy,X
+CITS5016,CISSP Certification,Lectures,Understanding the ICT profession,X
+CITS5016,CISSP Certification,Lectures,Data & information management,X
+CITS5016,CISSP Certification,Lectures,Networking,X
+CITS5016,CISSP Certification,Lectures,Human factors,X
+CITS5016,CISSP Certification,Lectures,IT governance & organisational issues,X
+CITS5016,CISSP Certification,Lectures,Cyber security,X
+CITS5016,CISSP Certification,Essay,Abstraction,4
+CITS5016,CISSP Certification,Essay,Design,4
+CITS5016,CISSP Certification,Essay,Ethics,3
+CITS5016,CISSP Certification,Essay,Professional expectations,3
+CITS5016,CISSP Certification,Essay,Societal issues / legal issues / privacy,4
+CITS5016,CISSP Certification,Essay,Understanding the ICT profession,4
+CITS5016,CISSP Certification,Essay,Data & information management,4
+CITS5016,CISSP Certification,Essay,Networking,4
+CITS5016,CISSP Certification,Essay,Human factors,4
+CITS5016,CISSP Certification,Essay,IT governance & organisational issues,3
+CITS5016,CISSP Certification,Mid-semester Tests,Abstraction,4
+CITS5016,CISSP Certification,Mid-semester Tests,Design,4
+CITS5016,CISSP Certification,Mid-semester Tests,Ethics,3
+CITS5016,CISSP Certification,Mid-semester Tests,Professional expectations,3
+CITS5016,CISSP Certification,Mid-semester Tests,Societal issues / legal issues / privacy,4
+CITS5016,CISSP Certification,Mid-semester Tests,Understanding the ICT profession,4
+CITS5016,CISSP Certification,Mid-semester Tests,Data & information management,4
+CITS5016,CISSP Certification,Mid-semester Tests,Networking,4
+CITS5016,CISSP Certification,Mid-semester Tests,Human factors,4
+CITS5016,CISSP Certification,Mid-semester Tests,IT governance & organisational issues,3
+CITS5017,Deep Learning,Lectures,Abstraction,X
+CITS5017,Deep Learning,Lectures,Design,X
+CITS5017,Deep Learning,Lectures,Professional expectations,X
+CITS5017,Deep Learning,Lectures,Interpersonal communications,X
+CITS5017,Deep Learning,Lectures,Data & information management,X
+CITS5017,Deep Learning,Lab Assessments,Abstraction,4
+CITS5017,Deep Learning,Lab Assessments,Design,4
+CITS5017,Deep Learning,Lab Assessments,Professional expectations,3
+CITS5017,Deep Learning,Lab Assessments,Interpersonal communications,3
+CITS5017,Deep Learning,Lab Assessments,Data & information management,3
+CITS5017,Deep Learning,Exam,Abstraction,4
+CITS5206,Professional Computing,Lectures,Abstraction,X
+CITS5206,Professional Computing,Lectures,Design,X
+CITS5206,Professional Computing,Lectures,Ethics,X
+CITS5206,Professional Computing,Lectures,Professional expectations,X
+CITS5206,Professional Computing,Lectures,Teamwork concepts and issues,X
+CITS5206,Professional Computing,Lectures,Interpersonal communications,X
+CITS5206,Professional Computing,Lectures,Societal issues / legal issues / privacy,X
+CITS5206,Professional Computing,Lectures,Understanding the ICT profession,X
+CITS5206,Professional Computing,Lectures,Systems development,X
+CITS5206,Professional Computing,Lectures,Systems acquisition,X
+CITS5206,Professional Computing,Lectures,IT project management,X
+CITS5206,Professional Computing,Lectures,Cyber security,X
+CITS5206,Professional Computing,Individual Essay,Ethics,4
+CITS5206,Professional Computing,Individual Essay,Professional expectations,4
+CITS5206,Professional Computing,Individual Essay,Societal issues / legal issues / privacy,4
+CITS5206,Professional Computing,Individual Essay,Understanding the ICT profession,4
+CITS5206,Professional Computing,Group Project,Abstraction,4
+CITS5206,Professional Computing,Group Project,Design,4
+CITS5206,Professional Computing,Group Project,Ethics,4
+CITS5206,Professional Computing,Group Project,Professional expectations,4
+CITS5206,Professional Computing,Group Project,Teamwork concepts and issues,4
+CITS5206,Professional Computing,Group Project,Interpersonal communications,4
+CITS5206,Professional Computing,Group Project,Understanding the ICT profession,4
+CITS5206,Professional Computing,Group Project,Hardware & software fundamentals,3
+CITS5206,Professional Computing,Group Project,Data & information management,3
+CITS5206,Professional Computing,Group Project,Networking,3
+CITS5206,Professional Computing,Group Project,Programming,4
+CITS5206,Professional Computing,Group Project,Human factors,3
+CITS5206,Professional Computing,Group Project,Systems development,3
+CITS5206,Professional Computing,Group Project,Systems acquisition,3
+CITS5206,Professional Computing,Group Project,IT governance & organisational issues,3
+CITS5206,Professional Computing,Group Project,IT project management,4
+CITS5206,Professional Computing,Group Project,Cyber security,2
+CITS5206,Professional Computing,Individual Project,Abstraction,4
+CITS5206,Professional Computing,Individual Project,Design,4
+CITS5206,Professional Computing,Individual Project,Professional expectations,4
+CITS5206,Professional Computing,Individual Project,Interpersonal communications,4
+CITS5206,Professional Computing,Individual Project,Understanding the ICT profession,4
+CITS5206,Professional Computing,Individual Project,Programming,4
+CITS5206,Professional Computing,Individual Project,Systems development,4
+CITS5206,Professional Computing,Individual Project,IT governance & organisational issues,3
+CITS5501,Software Testing and Quality Assurance,Lectures,Abstraction,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Design,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Professional expectations,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Societal issues / legal issues / privacy,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Data & information management,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Programming,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Human factors,X
+CITS5501,Software Testing and Quality Assurance,Lectures,IT project management,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Service management,X
+CITS5501,Software Testing and Quality Assurance,Lectures,Cyber security,X
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Design,3
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Societal issues / legal issues / privacy,3
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Data & information management,4
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Programming,4
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Human factors,4
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,IT project management,3
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Service management,3
+CITS5501,Software Testing and Quality Assurance,Laboratory Project,Cyber security,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Abstraction,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Design,3
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Professional expectations,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Societal issues / legal issues / privacy,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Data & information management,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Programming,4
+CITS5501,Software Testing and Quality Assurance,Research Seminar,Human factors,4
+CITS5501,Software Testing and Quality Assurance,Exam,Abstraction,4
+CITS5501,Software Testing and Quality Assurance,Exam,Design,4
+CITS5501,Software Testing and Quality Assurance,Exam,Societal issues / legal issues / privacy,4
+CITS5501,Software Testing and Quality Assurance,Exam,Hardware & software fundamentals,4
+CITS5501,Software Testing and Quality Assurance,Exam,Data & information management,4
+CITS5501,Software Testing and Quality Assurance,Exam,Programming,4
+CITS5503,Cloud Computing,Lectures,Abstraction,X
+CITS5503,Cloud Computing,Lectures,Design,X
+CITS5503,Cloud Computing,Lectures,Professional expectations,X
+CITS5503,Cloud Computing,Lectures,Interpersonal communications,X
+CITS5503,Cloud Computing,Lectures,Societal issues / legal issues / privacy,X
+CITS5503,Cloud Computing,Lectures,Understanding the ICT profession,X
+CITS5503,Cloud Computing,Lectures,Hardware & software fundamentals,X
+CITS5503,Cloud Computing,Lectures,Data & information management,X
+CITS5503,Cloud Computing,Lectures,Programming,X
+CITS5503,Cloud Computing,Lectures,Human factors,X
+CITS5503,Cloud Computing,Lectures,Systems development,X
+CITS5503,Cloud Computing,Lectures,Systems acquisition,X
+CITS5503,Cloud Computing,Lectures,IT governance & organisational issues,X
+CITS5503,Cloud Computing,Lectures,IT project management,X
+CITS5503,Cloud Computing,Essay,Abstraction,3
+CITS5503,Cloud Computing,Essay,Design,3
+CITS5503,Cloud Computing,Essay,Professional expectations,3
+CITS5503,Cloud Computing,Essay,Interpersonal communications,3
+CITS5503,Cloud Computing,Essay,Societal issues / legal issues / privacy,4
+CITS5503,Cloud Computing,Essay,Understanding the ICT profession,4
+CITS5503,Cloud Computing,Essay,Hardware & software fundamentals,4
+CITS5503,Cloud Computing,Essay,Data & information management,4
+CITS5503,Cloud Computing,Essay,Programming,4
+CITS5503,Cloud Computing,Essay,Human factors,4
+CITS5503,Cloud Computing,Essay,IT governance & organisational issues,3
+CITS5503,Cloud Computing,Essay,IT project management,3
+CITS5503,Cloud Computing,Laboratory Exercises,Abstraction,4
+CITS5503,Cloud Computing,Laboratory Exercises,Professional expectations,3
+CITS5503,Cloud Computing,Laboratory Exercises,Interpersonal communications,3
+CITS5503,Cloud Computing,Laboratory Exercises,Hardware & software fundamentals,4
+CITS5503,Cloud Computing,Laboratory Exercises,Data & information management,4
+CITS5503,Cloud Computing,Laboratory Exercises,Programming,4
+CITS5503,Cloud Computing,Laboratory Exercises,Systems development,4
+CITS5503,Cloud Computing,Laboratory Exercises,Systems acquisition,4
+CITS5503,Cloud Computing,Exam,Abstraction,4
+CITS5503,Cloud Computing,Exam,Design,4
+CITS5504,Data Warehousing,Lectures,Abstraction,X
+CITS5504,Data Warehousing,Lectures,Design,X
+CITS5504,Data Warehousing,Lectures,Hardware & software fundamentals,X
+CITS5504,Data Warehousing,Lectures,Data & information management,X
+CITS5504,Data Warehousing,Lectures,Networking,X
+CITS5504,Data Warehousing,Lectures,Programming,X
+CITS5504,Data Warehousing,Lectures,Systems development,X
+CITS5504,Data Warehousing,Project Assignment,Abstraction,3
+CITS5504,Data Warehousing,Project Assignment,Design,3
+CITS5504,Data Warehousing,Project Assignment,Hardware & software fundamentals,4
+CITS5504,Data Warehousing,Project Assignment,Data & information management,4
+CITS5504,Data Warehousing,Project Assignment,Networking,4
+CITS5504,Data Warehousing,Project Assignment,Programming,4
+CITS5504,Data Warehousing,Mid-semester Test,Design,4
+CITS5504,Data Warehousing,Mid-semester Test,Hardware & software fundamentals,3
+CITS5504,Data Warehousing,Mid-semester Test,Data & information management,3
+CITS5504,Data Warehousing,Mid-semester Test,Networking,3
+CITS5504,Data Warehousing,Exam,Abstraction,3
+CITS5504,Data Warehousing,Exam,Design,4
+CITS5504,Data Warehousing,Exam,Hardware & software fundamentals,4
+CITS5504,Data Warehousing,Exam,Networking,4
+CITS5504,Data Warehousing,Exam,Programming,4
+CITS5505,Agile Web Development,Lectures,Abstraction,X
+CITS5505,Agile Web Development,Lectures,Design,X
+CITS5505,Agile Web Development,Lectures,Hardware & software fundamentals,X
+CITS5505,Agile Web Development,Lectures,Data & information management,X
+CITS5505,Agile Web Development,Lectures,Networking,X
+CITS5505,Agile Web Development,Lectures,Programming,X
+CITS5505,Agile Web Development,Lectures,Human factors,X
+CITS5505,Agile Web Development,Lectures,Systems development,X
+CITS5505,Agile Web Development,Lectures,Systems acquisition,X
+CITS5505,Agile Web Development,Lectures,IT project management,X
+CITS5505,Agile Web Development,Lectures,Cyber security,X
+CITS5505,Agile Web Development,Web Application Project,Abstraction,3
+CITS5505,Agile Web Development,Web Application Project,Design,3
+CITS5505,Agile Web Development,Web Application Project,Hardware & software fundamentals,2
+CITS5505,Agile Web Development,Web Application Project,Data & information management,3
+CITS5505,Agile Web Development,Web Application Project,Networking,3
+CITS5505,Agile Web Development,Website Project,Abstraction,3
+CITS5505,Agile Web Development,Website Project,Design,4
+CITS5505,Agile Web Development,Website Project,Hardware & software fundamentals,3
+CITS5505,Agile Web Development,Website Project,Data & information management,4
+CITS5505,Agile Web Development,Website Project,Networking,4
+CITS5505,Agile Web Development,Website Project,Programming,4
+CITS5505,Agile Web Development,Website Project,Human factors,3
+CITS5505,Agile Web Development,Website Project,IT project management,2
+CITS5505,Agile Web Development,Website Project,Cyber security,3
+CITS5505,Agile Web Development,Exam,Abstraction,3
+CITS5505,Agile Web Development,Exam,Design,3
+CITS5505,Agile Web Development,Exam,Hardware & software fundamentals,3
+CITS5505,Agile Web Development,Exam,Data & information management,3
+CITS5505,Agile Web Development,Exam,Networking,4
+CITS5505,Agile Web Development,Exam,Human factors,3
+CITS5505,Agile Web Development,Exam,Cyber security,2
+CITS5506,The Internet of Things,Lectures,Abstraction,X
+CITS5506,The Internet of Things,Lectures,Design,X
+CITS5506,The Internet of Things,Lectures,Ethics,X
+CITS5506,The Internet of Things,Lectures,Societal issues / legal issues / privacy,X
+CITS5506,The Internet of Things,Lectures,Hardware & software fundamentals,X
+CITS5506,The Internet of Things,Lectures,Data & information management,X
+CITS5506,The Internet of Things,Lectures,Networking,X
+CITS5506,The Internet of Things,Lectures,Programming,X
+CITS5506,The Internet of Things,Lectures,Human factors,X
+CITS5506,The Internet of Things,Lectures,Cyber security,X
+CITS5506,The Internet of Things,Mid-semester Test,Abstraction,3
+CITS5506,The Internet of Things,Mid-semester Test,Design,4
+CITS5506,The Internet of Things,Mid-semester Test,Ethics,3
+CITS5506,The Internet of Things,Mid-semester Test,Societal issues / legal issues / privacy,3
+CITS5506,The Internet of Things,Mid-semester Test,Data & information management,3
+CITS5506,The Internet of Things,Mid-semester Test,Networking,3
+CITS5506,The Internet of Things,Mid-semester Test,Human factors,3
+CITS5506,The Internet of Things,Programming Projects,Abstraction,3
+CITS5506,The Internet of Things,Programming Projects,Design,3
+CITS5506,The Internet of Things,Programming Projects,Data & information management,3
+CITS5506,The Internet of Things,Programming Projects,Networking,3
+CITS5506,The Internet of Things,Programming Projects,Human factors,3
+CITS5506,The Internet of Things,Programming Projects,Cyber security,3
+CITS5506,The Internet of Things,Presentation,Abstraction,4
+CITS5506,The Internet of Things,Presentation,Design,4
+CITS5506,The Internet of Things,Presentation,Hardware & software fundamentals,4
+CITS5506,The Internet of Things,Presentation,Data & information management,4
+CITS5506,The Internet of Things,Presentation,Networking,4
+CITS5506,The Internet of Things,Presentation,Programming,4
+CITS5506,The Internet of Things,Presentation,Human factors,3
+CITS5507,High Performance Computing,Lectures,Abstraction,X
+CITS5507,High Performance Computing,Lectures,Design,X
+CITS5507,High Performance Computing,Lectures,Understanding the ICT profession,X
+CITS5507,High Performance Computing,Lectures,Hardware & software fundamentals,X
+CITS5507,High Performance Computing,Lectures,Data & information management,X
+CITS5507,High Performance Computing,Lectures,Networking,X
+CITS5507,High Performance Computing,Lectures,Programming,X
+CITS5507,High Performance Computing,Lab & Project Assessments,Abstraction,4
+CITS5507,High Performance Computing,Lab & Project Assessments,Hardware & software fundamentals,4
+CITS5507,High Performance Computing,Lab & Project Assessments,Data & information management,4
+CITS5507,High Performance Computing,Lab & Project Assessments,Networking,4
+CITS5507,High Performance Computing,Exam,Abstraction,4
+CITS5507,High Performance Computing,Exam,Design,4
+CITS5507,High Performance Computing,Exam,Hardware & software fundamentals,4
+CITS5507,High Performance Computing,Exam,Data & information management,4
+CITS5507,High Performance Computing,Exam,Networking,3
+CITS5508,Machine Learning,Lectures,Abstraction,X
+CITS5508,Machine Learning,Lectures,Design,X
+CITS5508,Machine Learning,Lectures,Professional expectations,X
+CITS5508,Machine Learning,Lectures,Interpersonal communications,X
+CITS5508,Machine Learning,Lectures,Understanding the ICT profession,X
+CITS5508,Machine Learning,Lectures,Hardware & software fundamentals,X
+CITS5508,Machine Learning,Lectures,Data & information management,X
+CITS5508,Machine Learning,Lectures,Programming,X
+CITS5508,Machine Learning,Mid-semester Test,Abstraction,4
+CITS5508,Machine Learning,Mid-semester Test,Design,4
+CITS5508,Machine Learning,Mid-semester Test,Hardware & software fundamentals,4
+CITS5508,Machine Learning,Mid-semester Test,Data & information management,3
+CITS5508,Machine Learning,Laboratory Exercises,Abstraction,4
+CITS5508,Machine Learning,Laboratory Exercises,Design,4
+CITS5508,Machine Learning,Laboratory Exercises,Professional expectations,3
+CITS5508,Machine Learning,Laboratory Exercises,Interpersonal communications,2
+CITS5508,Machine Learning,Laboratory Exercises,Understanding the ICT profession,2
+CITS5508,Machine Learning,Laboratory Exercises,Hardware & software fundamentals,3
+CITS5508,Machine Learning,Laboratory Exercises,Data & information management,3
+CITS5508,Machine Learning,Laboratory Exercises,Programming,4
+CITS5508,Machine Learning,Exam,Abstraction,4
+CITS5508,Machine Learning,Exam,Design,4
+CITS5508,Machine Learning,Exam,Hardware & software fundamentals,4
+CITS5508,Machine Learning,Exam,Data & information management,4
+CITS5508,Machine Learning,Exam,Programming,2
+CITS5551,Software Engineering Design Project 1,Lectures,Abstraction,X
+CITS5551,Software Engineering Design Project 1,Lectures,Design,X
+CITS5551,Software Engineering Design Project 1,Lectures,Ethics,X
+CITS5551,Software Engineering Design Project 1,Lectures,Professional expectations,X
+CITS5551,Software Engineering Design Project 1,Lectures,Teamwork concepts and issues,X
+CITS5551,Software Engineering Design Project 1,Lectures,Interpersonal communications,X
+CITS5551,Software Engineering Design Project 1,Lectures,Societal issues / legal issues / privacy,X
+CITS5551,Software Engineering Design Project 1,Lectures,Understanding the ICT profession,X
+CITS5551,Software Engineering Design Project 1,Project Plan (Group),Abstraction,4
+CITS5551,Software Engineering Design Project 1,Project Plan (Group),Design,3
+CITS5551,Software Engineering Design Project 1,Project Plan (Group),Ethics,4
+CITS5551,Software Engineering Design Project 1,Project Plan (Group),Professional expectations,4
+CITS5551,Software Engineering Design Project 1,Project Plan (Group),Societal issues / legal issues / privacy,3
+CITS5551,Software Engineering Design Project 1,Presentation Video (Individual),Design,4
+CITS5551,Software Engineering Design Project 1,Presentation Video (Individual),Ethics,3
+CITS5551,Software Engineering Design Project 1,Presentation Video (Individual),Professional expectations,3
+CITS5551,Software Engineering Design Project 1,Presentation Video (Individual),Teamwork concepts and issues,3
+CITS5551,Software Engineering Design Project 1,Presentation Video (Individual),Interpersonal communications,4
+CITS5551,Software Engineering Design Project 1,Individual Essay,Ethics,4
+CITS5551,Software Engineering Design Project 1,Individual Essay,Professional expectations,4
+CITS5551,Software Engineering Design Project 1,Individual Essay,Teamwork concepts and issues,4
+CITS5551,Software Engineering Design Project 1,Individual Essay,Understanding the ICT profession,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Abstraction,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Ethics,3
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Professional expectations,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Societal issues / legal issues / privacy,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Hardware & software fundamentals,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Systems development,4
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Systems acquisition,3
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),IT project management,3
+CITS5552,Software Engineering Design Project 2,System Delivery (Group Assessment),Service management,3
+CITS5552,Software Engineering Design Project 2,Individual Contribution,Ethics,4
+CITS5552,Software Engineering Design Project 2,Individual Contribution,Professional expectations,4
+CITS5552,Software Engineering Design Project 2,Individual Contribution,Societal issues / legal issues / privacy,3
+CITS5552,Software Engineering Design Project 2,Individual Contribution,Understanding the ICT profession,4
+CITS5552,Software Engineering Design Project 2,Peer Review,Ethics,3
+CITS5552,Software Engineering Design Project 2,Peer Review,Professional expectations,3
+CITS5552,Software Engineering Design Project 2,Peer Review,Teamwork concepts and issues,3
+CITS5552,Software Engineering Design Project 2,Peer Review,Interpersonal communications,4
+CITS5552,Software Engineering Design Project 2,Peer Review,Understanding the ICT profession,4
+CITS5553,Data Science Capstone Project,Lectures,Abstraction,X
+CITS5553,Data Science Capstone Project,Lectures,Design,X
+CITS5553,Data Science Capstone Project,Lectures,Ethics,X
+CITS5553,Data Science Capstone Project,Lectures,Professional expectations,X
+CITS5553,Data Science Capstone Project,Lectures,Teamwork concepts and issues,X
+CITS5553,Data Science Capstone Project,Lectures,Interpersonal communications,X
+CITS5553,Data Science Capstone Project,Lectures,Societal issues / legal issues / privacy,X
+CITS5553,Data Science Capstone Project,Lectures,Understanding the ICT profession,X
+CITS5553,Data Science Capstone Project,Lectures,Systems development,X
+CITS5553,Data Science Capstone Project,Lectures,Systems acquisition,X
+CITS5553,Data Science Capstone Project,Lectures,IT project management,X
+CITS5553,Data Science Capstone Project,Individual Essay,Ethics,4
+CITS5553,Data Science Capstone Project,Individual Essay,Professional expectations,4
+CITS5553,Data Science Capstone Project,Individual Essay,Societal issues / legal issues / privacy,4
+CITS5553,Data Science Capstone Project,Group Project,Professional expectations,4
+CITS5553,Data Science Capstone Project,Group Project,Teamwork concepts and issues,4
+CITS5553,Data Science Capstone Project,Group Project,Interpersonal communications,4
+CITS5553,Data Science Capstone Project,Group Project,Understanding the ICT profession,3
+CITS5553,Data Science Capstone Project,Group Project,Systems development,3
+CITS5553,Data Science Capstone Project,Group Project,Systems acquisition,3
+CITS5553,Data Science Capstone Project,Group Project,IT project management,3
+CITS5553,Data Science Capstone Project,Individual Project,Professional expectations,4
+CITS5553,Data Science Capstone Project,Individual Project,Understanding the ICT profession,3
+ENVT4411,Geographic Information Systems Applications,Lectures,Abstraction,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Design,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Understanding the ICT profession,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Data & information management,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Programming,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Systems development,X
+ENVT4411,Geographic Information Systems Applications,Short Report,Understanding the ICT profession,3
+ENVT4411,Geographic Information Systems Applications,Full Report,Abstraction,3
+ENVT4411,Geographic Information Systems Applications,Full Report,Design,4
+ENVT4411,Geographic Information Systems Applications,Full Report,Understanding the ICT profession,3
+ENVT4411,Geographic Information Systems Applications,Full Report,Data & information management,4
+ENVT4411,Geographic Information Systems Applications,Full Report,Programming,4
+ENVT4411,Geographic Information Systems Applications,Full Report,Systems development,4
+ENVT4411,Geographic Information Systems Applications,Quiz,Understanding the ICT profession,3
+ENVT4411,Geographic Information Systems Applications,Quiz,Data & information management,3
+ENVT4411,Geographic Information Systems Applications,Quiz,Programming,3
+ENVT4411,Geographic Information Systems Applications,Quiz,Systems development,4
+ENVT4411,Geographic Information Systems Applications,Lectures,Ethics,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Professional expectations,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Teamwork concepts and issues,X
+ENVT4411,Geographic Information Systems Applications,Lectures,Societal issues / legal issues / privacy,X
+ENVT4411,Geographic Information Systems Applications,Lectures,IT governance & organisational issues,X
+ENVT4411,Geographic Information Systems Applications,Lectures,IT project management,X
+ENVT4411,Geographic Information Systems Applications,Project Report ,Ethics,3
+ENVT4411,Geographic Information Systems Applications,Project Report ,Professional expectations,3
+ENVT4411,Geographic Information Systems Applications,Project Report ,Teamwork concepts and issues,4
+ENVT4411,Geographic Information Systems Applications,Project Report ,Societal issues / legal issues / privacy,3
+ENVT4411,Geographic Information Systems Applications,Project Report ,IT governance & organisational issues,3
+ENVT4411,Geographic Information Systems Applications,Project Report ,IT project management,4
+ENVT4411,Geographic Information Systems Applications,Presentation ,Ethics,3
+ENVT4411,Geographic Information Systems Applications,Presentation ,Professional expectations,3
+ENVT4411,Geographic Information Systems Applications,Presentation ,Teamwork concepts and issues,3
+ENVT4411,Geographic Information Systems Applications,Presentation ,Societal issues / legal issues / privacy,3
+ENVT4411,Geographic Information Systems Applications,Presentation ,IT project management,4
+ENVT4411,Geographic Information Systems Applications,Exam ,Ethics,4
+ENVT4411,Geographic Information Systems Applications,Exam ,Societal issues / legal issues / privacy,4
+ENVT4411,Geographic Information Systems Applications,Exam ,IT governance & organisational issues,3
+ENVT4411,Geographic Information Systems Applications,Exam ,IT project management,4
+ENVT4411,Geographic Information Systems Applications,Lectures,IT governance & organisational issues,X
+ENVT4411,Geographic Information Systems Applications,Lectures,IT project management,X
+ENVT4411,Geographic Information Systems Applications,Weekly Statistical Quizzes ,IT project management,3
+ENVT4411,Geographic Information Systems Applications,Weekly Engineering Quizzes ,IT project management,3
+ENVT4411,Geographic Information Systems Applications,Exam ,IT project management,3
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures,Abstraction,X
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures,Ethics,X
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures,Societal issues / legal issues / privacy,X
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures,IT governance & organisational issues,X
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures,Cyber security,X
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Research Essay,Ethics,3
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Research Essay,Societal issues / legal issues / privacy,3
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Online Quizzes,Abstraction,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Online Quizzes,Ethics,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Online Quizzes,IT governance & organisational issues,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Online Quizzes,Cyber security,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam,Abstraction,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam,Ethics,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam,Societal issues / legal issues / privacy,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam,IT governance & organisational issues,2
+PHIL1001,Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam,Cyber security,2
+STAT1400,Statistics for Science,Lectures,Abstraction,X
+STAT1400,Statistics for Science,Lectures,Teamwork concepts and issues,X
+STAT1400,Statistics for Science,Lectures,Interpersonal communications,X
+STAT1400,Statistics for Science,Lectures,Understanding the ICT profession,X
+STAT1400,Statistics for Science,Lectures,Programming,X
+STAT1400,Statistics for Science,Assignments,Abstraction,2
+STAT1400,Statistics for Science,Assignments,Teamwork concepts and issues,3
+STAT1400,Statistics for Science,Assignments,Interpersonal communications,2
+STAT1400,Statistics for Science,Assignments,Understanding the ICT profession,2
+STAT1400,Statistics for Science,Assignments,Programming,3
+STAT1400,Statistics for Science,Test,Abstraction,2
+STAT1400,Statistics for Science,Test,Understanding the ICT profession,2
+STAT1400,Statistics for Science,Test,Programming,3
+STAT1400,Statistics for Science,Exam,Abstraction,2
+STAT2401,Analysis of Experiments ,Lectures,Abstraction,X
+STAT2401,Analysis of Experiments ,Lectures,Design,X
+STAT2401,Analysis of Experiments ,Lectures,Teamwork concepts and issues,X
+STAT2401,Analysis of Experiments ,Lectures,Interpersonal communications,X
+STAT2401,Analysis of Experiments ,Lectures,Programming,X
+STAT2401,Analysis of Experiments ,Assignments,Abstraction,3
+STAT2401,Analysis of Experiments ,Assignments,Design,2
+STAT2401,Analysis of Experiments ,Assignments,Teamwork concepts and issues,3
+STAT2401,Analysis of Experiments ,Assignments,Interpersonal communications,2
+STAT2401,Analysis of Experiments ,Assignments,Programming,3
+STAT2401,Analysis of Experiments ,Test,Abstraction,3
+STAT2401,Analysis of Experiments ,Test,Programming,3
+STAT2401,Analysis of Experiments ,Exam,Abstraction,3
+STAT2401,Analysis of Experiments ,Exam,Design,2
+STAT2402,Analysis of Observations,Lectures,Abstraction,X
+STAT2402,Analysis of Observations,Lectures,Design,X
+STAT2402,Analysis of Observations,Lectures,Teamwork concepts and issues,X
+STAT2402,Analysis of Observations,Lectures,Interpersonal communications,X
+STAT2402,Analysis of Observations,Lectures,Understanding the ICT profession,X
+STAT2402,Analysis of Observations,Lectures,Programming,X
+STAT2402,Analysis of Observations,Assignments,Abstraction,3
+STAT2402,Analysis of Observations,Assignments,Design,2
+STAT2402,Analysis of Observations,Assignments,Teamwork concepts and issues,3
+STAT2402,Analysis of Observations,Assignments,Interpersonal communications,2
+STAT2402,Analysis of Observations,Assignments,Understanding the ICT profession,2
+STAT2402,Analysis of Observations,Assignments,Programming,3
+STAT2402,Analysis of Observations,Test,Abstraction,3
+STAT2402,Analysis of Observations,Test,Understanding the ICT profession,2
+STAT2402,Analysis of Observations,Exam,Abstraction,3
+STAT3064,Statistical Learning,Lectures,Abstraction,X
+STAT3064,Statistical Learning,Lectures,Design,X
+STAT3064,Statistical Learning,Lectures,Ethics,X
+STAT3064,Statistical Learning,Lectures,Professional expectations,X
+STAT3064,Statistical Learning,Lectures,Teamwork concepts and issues,X
+STAT3064,Statistical Learning,Lectures,Interpersonal communications,X
+STAT3064,Statistical Learning,Lectures,Understanding the ICT profession,X
+STAT3064,Statistical Learning,Lectures,Data & information management,X
+STAT3064,Statistical Learning,Lectures,Programming,X
+STAT3064,Statistical Learning,Lectures,Human factors,X
+STAT3064,Statistical Learning,Assignments,Abstraction,4
+STAT3064,Statistical Learning,Assignments,Design,3
+STAT3064,Statistical Learning,Assignments,Ethics,1
+STAT3064,Statistical Learning,Assignments,Professional expectations,2
+STAT3064,Statistical Learning,Assignments,Teamwork concepts and issues,3
+STAT3064,Statistical Learning,Assignments,Interpersonal communications,4
+STAT3064,Statistical Learning,Assignments,Understanding the ICT profession,2
+STAT3064,Statistical Learning,Assignments,Data & information management,2
+STAT3064,Statistical Learning,Assignments,Programming,3
+STAT3064,Statistical Learning,Assignments,Human factors,2
+STAT3064,Statistical Learning,Quizzes,Abstraction,3
+STAT3064,Statistical Learning,Quizzes,Professional expectations,2
+STAT3064,Statistical Learning,Exam,Abstraction,3
+STAT3064,Statistical Learning,Exam,Professional expectations,2
+STAT3064,Statistical Learning,Exam,Interpersonal communications,3
+STAT3064,Statistical Learning,Exam,Understanding the ICT profession,2
+STAT3064,Statistical Learning,Exam,Programming,3
+STAT3064,Statistical Learning,Exam,Human factors,2
+STAT3401,Advanced Data Analysis,Lectures,Abstraction,X
+STAT3401,Advanced Data Analysis,Lectures,Design,X
+STAT3401,Advanced Data Analysis,Lectures,Professional expectations,X
+STAT3401,Advanced Data Analysis,Lectures,Teamwork concepts and issues,X
+STAT3401,Advanced Data Analysis,Lectures,Interpersonal communications,X
+STAT3401,Advanced Data Analysis,Lectures,Data & information management,X
+STAT3401,Advanced Data Analysis,Lectures,Human factors,X
+STAT3401,Advanced Data Analysis,Assignments,Abstraction,3
+STAT3401,Advanced Data Analysis,Assignments,Design,2
+STAT3401,Advanced Data Analysis,Assignments,Professional expectations,2
+STAT3401,Advanced Data Analysis,Assignments,Teamwork concepts and issues,3
+STAT3401,Advanced Data Analysis,Assignments,Interpersonal communications,4
+STAT3401,Advanced Data Analysis,Assignments,Data & information management,2
+STAT3401,Advanced Data Analysis,Assignments,Human factors,2
+STAT3401,Advanced Data Analysis,Test,Abstraction,2
+STAT3401,Advanced Data Analysis,Test,Professional expectations,2
+STAT3401,Advanced Data Analysis,Exam,Abstraction,3
+STAT3401,Advanced Data Analysis,Exam,Professional expectations,2
+STAT3401,Advanced Data Analysis,Exam,Interpersonal communications,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Abstraction,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Design,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Ethics,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Professional expectations,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Teamwork concepts and issues,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Interpersonal communications,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Understanding the ICT profession,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Data & information management,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Programming,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Lectures,Human factors,X
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Abstraction,4
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Design,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Ethics,1
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Professional expectations,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Teamwork concepts and issues,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Interpersonal communications,4
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Understanding the ICT profession,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Data & information management,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Programming,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Assignments,Human factors,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Lab Assessments,Abstraction,4
+STAT3405,Introduction to Bayesian Computing and Statistics,Lab Assessments,Design,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Lab Assessments,Interpersonal communications,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Lab Assessments,Programming,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Abstraction,4
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Design,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Professional expectations,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Interpersonal communications,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Understanding the ICT profession,2
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Programming,3
+STAT3405,Introduction to Bayesian Computing and Statistics,Exam,Human factors,2
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Abstraction,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Design,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Professional expectations,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Teamwork concepts and issues,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Interpersonal communications,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Understanding the ICT profession,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Data & information management,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Programming,X
+STAT3406,Applied Statistics and Data Visualisation,Lectures,Human factors,X
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Abstraction,4
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Design,3
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Professional expectations,3
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Teamwork concepts and issues,3
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Interpersonal communications,4
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Understanding the ICT profession,2
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Data & information management,2
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Programming,3
+STAT3406,Applied Statistics and Data Visualisation,Assignments,Human factors,2
+STAT3406,Applied Statistics and Data Visualisation,Quizzes,Abstraction,3
+STAT3406,Applied Statistics and Data Visualisation,Exam,Abstraction,3
+STAT3406,Applied Statistics and Data Visualisation,Exam,Professional expectations,2
+STAT3406,Applied Statistics and Data Visualisation,Exam,Interpersonal communications,3
+STAT3406,Applied Statistics and Data Visualisation,Exam,Understanding the ICT profession,1
+STAT3406,Applied Statistics and Data Visualisation,Exam,Programming,3
+STAT4064,Applied Predictive Modelling,Lectures,Abstraction,X
+STAT4064,Applied Predictive Modelling,Lectures,Design,X
+STAT4064,Applied Predictive Modelling,Lectures,Professional expectations,X
+STAT4064,Applied Predictive Modelling,Lectures,Teamwork concepts and issues,X
+STAT4064,Applied Predictive Modelling,Lectures,Interpersonal communications,X
+STAT4064,Applied Predictive Modelling,Lectures,Understanding the ICT profession,X
+STAT4064,Applied Predictive Modelling,Lectures,Data & information management,X
+STAT4064,Applied Predictive Modelling,Lectures,Programming,X
+STAT4064,Applied Predictive Modelling,Lectures,Human factors,X
+STAT4064,Applied Predictive Modelling,Assignments,Abstraction,4
+STAT4064,Applied Predictive Modelling,Assignments,Design,3
+STAT4064,Applied Predictive Modelling,Assignments,Professional expectations,3
+STAT4064,Applied Predictive Modelling,Assignments,Teamwork concepts and issues,3
+STAT4064,Applied Predictive Modelling,Assignments,Interpersonal communications,4
+STAT4064,Applied Predictive Modelling,Assignments,Understanding the ICT profession,2
+STAT4064,Applied Predictive Modelling,Assignments,Data & information management,2
+STAT4064,Applied Predictive Modelling,Assignments,Programming,3
+STAT4064,Applied Predictive Modelling,Assignments,Human factors,2
+STAT4064,Applied Predictive Modelling,Quizzes,Abstraction,3
+STAT4064,Applied Predictive Modelling,Exam,Abstraction,3
+STAT4064,Applied Predictive Modelling,Exam,Professional expectations,2
+STAT4064,Applied Predictive Modelling,Exam,Interpersonal communications,3
+STAT4064,Applied Predictive Modelling,Exam,Understanding the ICT profession,1
+STAT4064,Applied Predictive Modelling,Exam,Programming,3
+STAT4066,Bayesian Computing and Statistics,Lectures,Abstraction,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Design,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Ethics,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Professional expectations,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Teamwork concepts and issues,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Interpersonal communications,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Understanding the ICT profession,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Data & information management,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Programming,X
+STAT4066,Bayesian Computing and Statistics,Lectures,Human factors,X
+STAT4066,Bayesian Computing and Statistics,Assignments,Abstraction,4
+STAT4066,Bayesian Computing and Statistics,Assignments,Design,3
+STAT4066,Bayesian Computing and Statistics,Assignments,Ethics,1
+STAT4066,Bayesian Computing and Statistics,Assignments,Professional expectations,3
+STAT4066,Bayesian Computing and Statistics,Assignments,Teamwork concepts and issues,2
+STAT4066,Bayesian Computing and Statistics,Assignments,Interpersonal communications,4
+STAT4066,Bayesian Computing and Statistics,Assignments,Understanding the ICT profession,2
+STAT4066,Bayesian Computing and Statistics,Assignments,Data & information management,2
+STAT4066,Bayesian Computing and Statistics,Assignments,Programming,3
+STAT4066,Bayesian Computing and Statistics,Assignments,Human factors,2
+STAT4066,Bayesian Computing and Statistics,Lab Assessments,Abstraction,4
+STAT4066,Bayesian Computing and Statistics,Lab Assessments,Design,3
+STAT4066,Bayesian Computing and Statistics,Lab Assessments,Interpersonal communications,2
+STAT4066,Bayesian Computing and Statistics,Lab Assessments,Programming,3
+STAT4066,Bayesian Computing and Statistics,Exam,Abstraction,4
+STAT4066,Bayesian Computing and Statistics,Exam,Design,3
+STAT4066,Bayesian Computing and Statistics,Exam,Professional expectations,3
+STAT4066,Bayesian Computing and Statistics,Exam,Interpersonal communications,3
+STAT4066,Bayesian Computing and Statistics,Exam,Understanding the ICT profession,2
+STAT4066,Bayesian Computing and Statistics,Exam,Programming,3
+STAT4066,Bayesian Computing and Statistics,Exam,Human factors,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Abstraction,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Design,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Professional expectations,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Teamwork concepts and issues,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Interpersonal communications,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Data & information management,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Lectures,Human factors,X
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Abstraction,3
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Design,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Professional expectations,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Teamwork concepts and issues,3
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Interpersonal communications,4
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Data & information management,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Assignments,Human factors,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Test,Abstraction,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Test,Professional expectations,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Exam,Abstraction,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Exam,Professional expectations,2
+STAT4065,Multilevel and Mixed-Effects Modelling,Exam,Interpersonal communications,2
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Abstraction,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Design,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Ethics,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Professional expectations,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Teamwork concepts and issues,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Interpersonal communications,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Understanding the ICT profession,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Data & information management,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Programming,X
+STAT4067,Applied Statistics and Data Visualisation,Lectures,Human factors,X
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Abstraction,4
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Design,3
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Ethics,1
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Professional expectations,2
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Teamwork concepts and issues,3
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Interpersonal communications,4
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Understanding the ICT profession,2
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Data & information management,2
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Programming,3
+STAT4067,Applied Statistics and Data Visualisation,Assignments,Human factors,2
+STAT4067,Applied Statistics and Data Visualisation,Quizzes,Abstraction,3
+STAT4067,Applied Statistics and Data Visualisation,Quizzes,Professional expectations,2
+STAT4067,Applied Statistics and Data Visualisation,Exam,Abstraction,3
+STAT4067,Applied Statistics and Data Visualisation,Exam,Professional expectations,2
+STAT4067,Applied Statistics and Data Visualisation,Exam,Interpersonal communications,3
+STAT4067,Applied Statistics and Data Visualisation,Exam,Understanding the ICT profession,2
+STAT4067,Applied Statistics and Data Visualisation,Exam,Programming,3

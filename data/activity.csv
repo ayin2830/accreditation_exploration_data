@@ -1,0 +1,234 @@
+unitCode,unit,activity
+CITS1001,CITS1001 Software Engineering with Java,Lectures
+CITS1001,CITS1001 Software Engineering with Java,Mid-semester Test 
+CITS1001,CITS1001 Software Engineering with Java,Programming Exercises
+CITS1001,CITS1001 Software Engineering with Java,Exam
+CITS1003,CITS1003 Introduction to Cybersecurity,Lectures
+CITS1003,CITS1003 Introduction to Cybersecurity,Essay
+CITS1003,CITS1003 Introduction to Cybersecurity,Labs with Quizzes
+CITS1003,CITS1003 Introduction to Cybersecurity,Exam
+CITS1401,CITS1401 Computational Thinking with Python,Lectures
+CITS1401,CITS1401 Computational Thinking with Python,Mid-semester Test
+CITS1401,CITS1401 Computational Thinking with Python,Labs and Project
+CITS1401,CITS1401 Computational Thinking with Python,Exam
+CITS1402,CITS1402 Relational Database Management Systems,Lectures
+CITS1402,CITS1402 Relational Database Management Systems,Mid-semester Test
+CITS1402,CITS1402 Relational Database Management Systems,Labs and Project
+CITS1402,CITS1402 Relational Database Management Systems,Exam
+CITS2002,CITS2002 Systems Programming,Lectures
+CITS2002,CITS2002 Systems Programming,Mid-semester Test
+CITS2002,CITS2002 Systems Programming,Programming
+CITS2002,CITS2002 Systems Programming,Exam
+CITS2003,CITS2003 Open Source Tools and Scripting,Lectures
+CITS2003,CITS2003 Open Source Tools and Scripting,Programming Assignment 1
+CITS2003,CITS2003 Open Source Tools and Scripting,Programming Assignment 2
+CITS2003,CITS2003 Open Source Tools and Scripting,Exam
+CITS2200,CITS2200 Data Structures and Algorithms,Lectures
+CITS2200,CITS2200 Data Structures and Algorithms,Mid-semester Test
+CITS2200,CITS2200 Data Structures and Algorithms,Labs and Project
+CITS2200,CITS2200 Data Structures and Algorithms,Exam
+CITS2211,CITS2211 Discrete Structures,Lectures
+CITS2211,CITS2211 Discrete Structures,Assignments
+CITS2211,CITS2211 Discrete Structures,Exam
+CITS2402,CITS2402 Introduction to Data Science,Lectures
+CITS2402,CITS2402 Introduction to Data Science,Case Studies
+CITS2402,CITS2402 Introduction to Data Science,Practical work (incl. weekly labs & assignment)
+CITS2402,CITS2402 Introduction to Data Science,Research Project
+CITS2402,CITS2402 Introduction to Data Science,Exam
+CITS3001,"CITS3001 Algorithms, Agents and Artificial Intelligence",Lectures
+CITS3001,"CITS3001 Algorithms, Agents and Artificial Intelligence",Mid-semester Test
+CITS3001,"CITS3001 Algorithms, Agents and Artificial Intelligence",Group Project
+CITS3001,"CITS3001 Algorithms, Agents and Artificial Intelligence",Exam
+CITS3002,CITS3002 Computer Networks,Lectures
+CITS3002,CITS3002 Computer Networks,Mid-semester Test
+CITS3002,CITS3002 Computer Networks,Practical Project
+CITS3002,CITS3002 Computer Networks,Exam
+CITS3003,CITS3003 Graphics and Animation,Lectures
+CITS3003,CITS3003 Graphics and Animation,Mid-semester Test
+CITS3003,CITS3003 Graphics and Animation,Programming Project
+CITS3003,CITS3003 Graphics and Animation,Exam
+CITS3004,CITS3004 Cybersecurity,Lectures
+CITS3004,CITS3004 Cybersecurity,Mid-semester Test
+CITS3004,CITS3004 Cybersecurity,Assignments
+CITS3004,CITS3004 Cybersecurity,Exam
+CITS3005,CITS3005 Knowledge Representation,Lectures
+CITS3005,CITS3005 Knowledge Representation,Workshops
+CITS3005,CITS3005 Knowledge Representation,Planning Project
+CITS3005,CITS3005 Knowledge Representation,Exam
+CITS3006,CITS3006 Penetration Testing,Lectures
+CITS3006,CITS3006 Penetration Testing,Mid-semester Test
+CITS3006,CITS3006 Penetration Testing,Assignments
+CITS3006,CITS3006 Penetration Testing,Exam
+CITS3007,CITS3007 Secure Coding,Lectures
+CITS3007,CITS3007 Secure Coding,Mid-semester Test
+CITS3007,CITS3007 Secure Coding,Programming Project
+CITS3007,CITS3007 Secure Coding,Exam
+CITS3200,CITS3200 Professional Computing,Lectures
+CITS3200,CITS3200 Professional Computing,Project 
+CITS3200,CITS3200 Professional Computing,Prof. Development Portfolio
+CITS3401,CITS3401 Data Warehousing,Lectures
+CITS3401,CITS3401 Data Warehousing,Mid-semester Test
+CITS3401,CITS3401 Data Warehousing,Project Assignment and Labs
+CITS3401,CITS3401 Data Warehousing,Exam
+CITS3402,CITS3402 High Performance Computing,Lectures
+CITS3402,CITS3402 High Performance Computing,Lab & Project Assessments
+CITS3402,CITS3402 High Performance Computing,Exam
+CITS3403,CITS3403 Agile Web Development,Lectures
+CITS3403,CITS3403 Agile Web Development,Mid-semester Test
+CITS3403,CITS3403 Agile Web Development,Web Application Project
+CITS3403,CITS3403 Agile Web Development,Exam
+CITS4001,CITS4001/4002 CSSE Research Project,Literature Review
+CITS4001,CITS4001/4002 CSSE Research Project,Seminar 
+CITS4001,CITS4001/4002 CSSE Research Project,Dissertation 
+CITS4009,CITS4009 Computational Data Analysis,Lectures
+CITS4009,CITS4009 Computational Data Analysis,Mid-semester Test
+CITS4009,CITS4009 Computational Data Analysis,Projects
+CITS4009,CITS4009 Computational Data Analysis,Exam
+CITS4010,CITS4010/4011 Computer Science Honours Research Project,Literature Review
+CITS4010,CITS4010/4011 Computer Science Honours Research Project,Seminar 
+CITS4010,CITS4010/4011 Computer Science Honours Research Project,Project Report
+CITS4012,CITS4012 Natural Language Processing,Lectures
+CITS4012,CITS4012 Natural Language Processing,Programming Assignment
+CITS4012,CITS4012 Natural Language Processing,Exam
+CITS4401,CITS4401 Software Requirements and Design,Lectures
+CITS4401,CITS4401 Software Requirements and Design,Workshop Exercises
+CITS4401,CITS4401 Software Requirements and Design,Requirements and Design Assignment
+CITS4401,CITS4401 Software Requirements and Design,Exam
+CITS4402,CITS4402 Computer Vision,Lectures
+CITS4402,CITS4402 Computer Vision,Lab Solutions
+CITS4402,CITS4402 Computer Vision,Research Project
+CITS4402,CITS4402 Computer Vision,Exam
+CITS4403,CITS4403 Computational Modelling,Lectures
+CITS4403,CITS4403 Computational Modelling,Mid-semester Test
+CITS4403,CITS4403 Computational Modelling,Project
+CITS4403,CITS4403 Computational Modelling,Notebook
+CITS4404,CITS4404 Artificial Intelligence and Adaptive Systems,Lectures
+CITS4404,CITS4404 Artificial Intelligence and Adaptive Systems,Seminars
+CITS4404,CITS4404 Artificial Intelligence and Adaptive Systems,Project
+CITS4404,CITS4404 Artificial Intelligence and Adaptive Systems,Exam
+CITS4407,CITS4407 Open Source Tools and Scripting,Lectures
+CITS4407,CITS4407 Open Source Tools and Scripting,Programming Assignment 1
+CITS4407,CITS4407 Open Source Tools and Scripting,Programming Assignment 2
+CITS4407,CITS4407 Open Source Tools and Scripting,Exam
+CITS4419,CITS4419 Mobile and Wireless Computing,Lectures
+CITS4419,CITS4419 Mobile and Wireless Computing,Group Project
+CITS4419,CITS4419 Mobile and Wireless Computing,Essay
+CITS4419,CITS4419 Mobile and Wireless Computing,Exam
+CITS5014,CITS5014/5015 Data Science Research Project ,Lectures
+CITS5014,CITS5014/5015 Data Science Research Project ,Project Proposal & Literature Review
+CITS5014,CITS5014/5015 Data Science Research Project ,Seminar Presentation
+CITS5014,CITS5014/5015 Data Science Research Project ,Research Project Report
+CITS5012,CITS5014/5015 Data Science Research Project ,Lectures
+CITS5013,CITS5014/5015 Data Science Research Project ,Project Proposal & Literature Review
+CITS5014,CITS5014/5015 Data Science Research Project ,Seminar Presentation
+CITS5015,CITS5014/5015 Data Science Research Project ,Research Project Report
+CITS5016,CITS5016 CISSP Certification,Lectures
+CITS5016,CITS5016 CISSP Certification,Essay
+CITS5016,CITS5016 CISSP Certification,Mid-semester Tests
+CITS5017,CITS5017 Deep Learning,Lectures
+CITS5017,CITS5017 Deep Learning,Lab Assessments
+CITS5017,CITS5017 Deep Learning,Exam
+CITS5206,CITS5206 Professional Computing,Lectures
+CITS5206,CITS5206 Professional Computing,Individual Essay
+CITS5206,CITS5206 Professional Computing,Group Project
+CITS5206,CITS5206 Professional Computing,Individual Project
+CITS5501,CITS5501 Software Testing and Quality Assurance,Lectures
+CITS5501,CITS5501 Software Testing and Quality Assurance,Laboratory Project
+CITS5501,CITS5501 Software Testing and Quality Assurance,Research Seminar
+CITS5501,CITS5501 Software Testing and Quality Assurance,Exam
+CITS5503,CITS5503 Cloud Computing,Lectures
+CITS5503,CITS5503 Cloud Computing,Essay
+CITS5503,CITS5503 Cloud Computing,Laboratory Exercises
+CITS5503,CITS5503 Cloud Computing,Exam
+CITS5504,CITS5504 Data Warehousing,Lectures
+CITS5504,CITS5504 Data Warehousing,Project Assignment
+CITS5504,CITS5504 Data Warehousing,Mid-semester Test
+CITS5504,CITS5504 Data Warehousing,Exam
+CITS5505,CITS5505 Agile Web Development,Lectures
+CITS5505,CITS5505 Agile Web Development,Web Application Project
+CITS5505,CITS5505 Agile Web Development,Website Project
+CITS5505,CITS5505 Agile Web Development,Exam
+CITS5506,CITS5506 The Internet of Things,Lectures
+CITS5506,CITS5506 The Internet of Things,Mid-semester Test
+CITS5506,CITS5506 The Internet of Things,Programming Projects
+CITS5506,CITS5506 The Internet of Things,Presentation
+CITS5507,CITS5507 High Performance Computing,Lectures
+CITS5507,CITS5507 High Performance Computing,Lab & Project Assessments
+CITS5507,CITS5507 High Performance Computing,Exam
+CITS5508,CITS5508 Machine Learning,Lectures
+CITS5508,CITS5508 Machine Learning,Mid-semester Test
+CITS5508,CITS5508 Machine Learning,Laboratory Exercises
+CITS5508,CITS5508 Machine Learning,Exam
+CITS5551,CITS5551 Software Engineering Design Project 1,Lectures
+CITS5551,CITS5551 Software Engineering Design Project 1,Project Plan (Group)
+CITS5551,CITS5551 Software Engineering Design Project 1,Presentation Video (Individual)
+CITS5551,CITS5551 Software Engineering Design Project 1,Individual Essay
+CITS5552,CITS5552 Software Engineering Design Project 2,System Delivery (Group Assessment)
+CITS5552,CITS5552 Software Engineering Design Project 2,Individual Contribution
+CITS5552,CITS5552 Software Engineering Design Project 2,Peer Review
+CITS5553,CITS5553 Data Science Capstone Project,Lectures
+CITS5553,CITS5553 Data Science Capstone Project,Individual Essay
+CITS5553,CITS5553 Data Science Capstone Project,Group Project
+CITS5553,CITS5553 Data Science Capstone Project,Individual Project
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Lectures
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Short Report
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Full Report
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Quiz
+ENVT4411,ENVT4411 Geographic Information Systems Applications,GENG5505 Project Management and Engineering Practice
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Lectures
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Project Report 
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Presentation 
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Exam 
+ENVT4411,ENVT4411 Geographic Information Systems Applications,"GENG5507 Risk, Reliability and Safety"
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Lectures
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Weekly Statistical Quizzes 
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Weekly Engineering Quizzes 
+ENVT4411,ENVT4411 Geographic Information Systems Applications,Exam 
+PHIL1001,PHIL1001 Ethics for the Digital Age: An Introduction to Moral Philosophy,Lectures
+PHIL1001,PHIL1001 Ethics for the Digital Age: An Introduction to Moral Philosophy,Research Essay
+PHIL1001,PHIL1001 Ethics for the Digital Age: An Introduction to Moral Philosophy,Online Quizzes
+PHIL1001,PHIL1001 Ethics for the Digital Age: An Introduction to Moral Philosophy,Exam
+STAT1400,STAT1400 Statistics for Science,Lectures
+STAT1400,STAT1400 Statistics for Science,Assignments
+STAT1400,STAT1400 Statistics for Science,Test
+STAT1400,STAT1400 Statistics for Science,Exam
+STAT2401,STAT2401 Analysis of Experiments ,Lectures
+STAT2401,STAT2401 Analysis of Experiments ,Assignments
+STAT2401,STAT2401 Analysis of Experiments ,Test
+STAT2401,STAT2401 Analysis of Experiments ,Exam
+STAT2402,STAT2402 Analysis of Observations,Lectures
+STAT2402,STAT2402 Analysis of Observations,Assignments
+STAT2402,STAT2402 Analysis of Observations,Test
+STAT2402,STAT2402 Analysis of Observations,Exam
+STAT3064,STAT3064 Statistical Learning,Lectures
+STAT3064,STAT3064 Statistical Learning,Assignments
+STAT3064,STAT3064 Statistical Learning,Quizzes
+STAT3064,STAT3064 Statistical Learning,Exam
+STAT3401,STAT3401 Advanced Data Analysis,Lectures
+STAT3401,STAT3401 Advanced Data Analysis,Assignments
+STAT3401,STAT3401 Advanced Data Analysis,Test
+STAT3401,STAT3401 Advanced Data Analysis,Exam
+STAT3405,STAT3405 Introduction to Bayesian Computing and Statistics,Lectures
+STAT3405,STAT3405 Introduction to Bayesian Computing and Statistics,Assignments
+STAT3405,STAT3405 Introduction to Bayesian Computing and Statistics,Lab Assessments
+STAT3405,STAT3405 Introduction to Bayesian Computing and Statistics,Exam
+STAT3406,STAT3406 Applied Statistics and Data Visualisation,Lectures
+STAT3406,STAT3406 Applied Statistics and Data Visualisation,Assignments
+STAT3406,STAT3406 Applied Statistics and Data Visualisation,Quizzes
+STAT3406,STAT3406 Applied Statistics and Data Visualisation,Exam
+STAT4064,STAT4064 Applied Predictive Modelling,Lectures
+STAT4064,STAT4064 Applied Predictive Modelling,Assignments
+STAT4064,STAT4064 Applied Predictive Modelling,Quizzes
+STAT4064,STAT4064 Applied Predictive Modelling,Exam
+STAT4066,STAT4066 Bayesian Computing and Statistics,Lectures
+STAT4066,STAT4066 Bayesian Computing and Statistics,Assignments
+STAT4066,STAT4066 Bayesian Computing and Statistics,Lab Assessments
+STAT4066,STAT4066 Bayesian Computing and Statistics,Exam
+STAT4065,STAT4065 Multilevel and Mixed-Effects Modelling,Lectures
+STAT4065,STAT4065 Multilevel and Mixed-Effects Modelling,Assignments
+STAT4065,STAT4065 Multilevel and Mixed-Effects Modelling,Test
+STAT4065,STAT4065 Multilevel and Mixed-Effects Modelling,Exam
+STAT4067,STAT4067 Applied Statistics and Data Visualisation,Lectures
+STAT4067,STAT4067 Applied Statistics and Data Visualisation,Assignments
+STAT4067,STAT4067 Applied Statistics and Data Visualisation,Quizzes
+STAT4067,STAT4067 Applied Statistics and Data Visualisation,Exam
